@@ -1,0 +1,609 @@
+
+          =====================================================
+
+                          S    U    T    R    A
+
+                               Version 2.2     
+
+          =====================================================
+
+ SUTRA Model created using Argus ONE and Sutra GUI
+ U.S. Geological Survey example parameter values
+ 
+ TIME STEP        1 OF       16;   ELAPSED TIME:  1.3149E+06 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0000000E+00
+                      1    1.7715021E-05
+                      2    6.9227037E-06
+                      3    8.3037895E-06
+                      4    3.3189754E-06
+                      5    2.5486198E-06
+                      6    1.9835931E-06
+                      7    2.2629234E-06
+                      8    1.8910755E-06
+                      9    1.3214172E-06
+                     10    2.1503857E-06
+                     11    1.6267266E-06
+                     12    9.6192185E-07
+                     13    4.5481715E-07
+                     14    9.0842138E-07
+                     15    9.7103612E-07
+                     16    4.4285905E-07
+                     17    9.4750532E-07
+                     18    2.1918195E-07
+                     19    8.0385941E-07
+                     20    3.6825752E-07
+                     21    4.6038514E-07
+                     22    1.6210921E-07
+                     23    2.6515353E-07
+                     24    1.3934174E-07
+                     25    1.2039339E-07
+                     26    9.7436219E-08
+                     27    9.7422703E-08
+                     28    5.8464146E-08
+                     29    6.4777330E-08
+                     30    5.7039329E-08
+                     31    2.0795425E-08
+                     32    4.3503255E-08
+                     33    1.1324776E-08
+                     34    2.8835319E-08
+                     35    4.2628039E-09
+       P-solution converged in    35 solver iterations  (Error ~  4.3E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0000000E+00
+                      1    2.1890132E-08
+                      2    1.3690004E-15
+       U-solution converged in     2 solver iterations  (Error ~  1.4E-15)
+ TIME STEP        2 OF       16;   ELAPSED TIME:  3.1558E+06 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    6.9999998E-01
+                      1    1.2582912E-05
+                      2    5.0904513E-06
+                      3    5.3589682E-06
+                      4    1.8727775E-06
+                      5    1.3834785E-06
+                      6    8.9984531E-07
+                      7    8.0547703E-07
+                      8    5.1868217E-07
+                      9    3.5302090E-07
+                     10    7.4674276E-07
+                     11    6.1209278E-07
+                     12    4.5019172E-07
+                     13    1.7658295E-07
+                     14    2.5508315E-07
+                     15    5.5132569E-07
+                     16    2.3575352E-07
+                     17    3.9408045E-07
+                     18    9.3763044E-08
+                     19    3.9901360E-07
+                     20    1.4846981E-07
+                     21    2.7614209E-07
+                     22    6.1212763E-08
+                     23    1.7106838E-07
+                     24    6.4245886E-08
+                     25    9.1660288E-08
+                     26    7.8703868E-08
+                     27    5.1487799E-08
+                     28    4.3901478E-08
+                     29    3.1247728E-08
+                     30    3.0322827E-08
+                     31    1.5069750E-08
+                     32    3.6191214E-08
+                     33    8.2397675E-09
+       P-solution converged in    33 solver iterations  (Error ~  8.2E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9507996E+00
+                      1    3.7065879E-01
+                      2    7.7501621E-02
+                      3    1.5572761E-02
+                      4    2.8025720E-03
+                      5    5.7528588E-04
+                      6    1.0111300E-04
+                      7    9.6277150E-06
+                      8    1.1559345E-06
+                      9    1.6365657E-07
+                     10    1.5462048E-08
+                     10    1.5462048E-08
+                     11    2.0777284E-09
+       U-solution converged in    11 solver iterations  (Error ~  2.1E-09)
+ TIME STEP        3 OF       16;   ELAPSED TIME:  5.7330E+06 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3581956E-07
+                      1    1.9110816E-07
+                      2    1.9019082E-07
+                      3    2.8684109E-07
+                      4    1.5852574E-07
+                      5    2.8470672E-07
+                      6    1.4538990E-07
+                      7    1.8092000E-07
+                      8    1.1976860E-07
+                      9    1.1111658E-07
+                     10    7.6229548E-08
+                     11    8.3199410E-08
+                     12    6.2477953E-08
+                     13    5.6964815E-08
+                     14    6.2903732E-08
+                     15    6.1811418E-08
+                     16    5.2065972E-08
+                     17    4.3416777E-08
+                     18    4.6527157E-08
+                     19    3.1404414E-08
+                     20    3.4719104E-08
+                     21    2.3908347E-08
+                     22    2.4875585E-08
+                     23    1.2367336E-08
+                     24    1.4106067E-08
+                     25    1.5994010E-08
+                     26    1.1951734E-08
+                     27    1.5685281E-08
+                     28    1.0057995E-08
+                     29    1.2021950E-08
+                     30    1.0160009E-08
+                     31    7.6345138E-09
+       P-solution converged in    31 solver iterations  (Error ~  7.6E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    5.1327335E-01
+                      1    8.6567879E-02
+                      2    1.5206574E-02
+                      3    2.1745716E-03
+                      4    3.0114573E-04
+                      5    8.7173594E-05
+                      6    1.2994441E-05
+                      7    1.3386235E-06
+                      8    1.5863836E-07
+                      9    2.0334149E-08
+                     10    1.7846551E-09
+       U-solution converged in    10 solver iterations  (Error ~  1.8E-09)
+ TIME STEP        4 OF       16;   ELAPSED TIME:  9.3410E+06 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.3373549E-08
+                      1    9.6568649E-08
+                      2    1.9547055E-07
+                      3    1.5883318E-07
+                      4    8.7287086E-08
+                      5    7.2875765E-08
+                      6    7.4441729E-08
+                      7    7.2702816E-08
+                      8    5.8519724E-08
+                      9    5.7352262E-08
+                     10    5.2501043E-08
+                     11    4.8240328E-08
+                     12    3.8511597E-08
+                     13    4.1947664E-08
+                     14    4.4193258E-08
+                     15    3.7682445E-08
+                     16    3.5214447E-08
+                     17    3.3944226E-08
+                     18    2.3856142E-08
+                     19    1.9162301E-08
+                     20    1.9356330E-08
+                     21    1.1631780E-08
+                     22    1.3852188E-08
+                     23    1.4032691E-08
+                     24    9.9773719E-09
+       P-solution converged in    24 solver iterations  (Error ~  1.0E-08)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0186005E-01
+                      1    1.1265976E-02
+                      2    2.0137210E-03
+                      3    2.9000073E-04
+                      4    3.9515304E-05
+                      5    4.6950602E-06
+                      6    4.3671260E-07
+                      7    5.2302998E-08
+                      8    5.7681213E-09
+       U-solution converged in     8 solver iterations  (Error ~  5.8E-09)
+ TIME STEP        5 OF       16;   ELAPSED TIME:  1.4392E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.1110408E-08
+                      1    2.1815583E-08
+                      2    3.7214918E-08
+                      3    7.3966016E-08
+                      4    6.0969579E-08
+                      5    3.9185917E-08
+                      6    3.6264380E-08
+                      7    2.4194012E-08
+                      8    2.9660546E-08
+                      9    1.9413270E-08
+                     10    2.2565788E-08
+                     11    2.5775410E-08
+                     12    2.0145968E-08
+                     13    2.5766928E-08
+                     14    2.8634025E-08
+                     15    2.3573210E-08
+                     16    1.7796894E-08
+                     17    1.6000867E-08
+                     18    1.5480007E-08
+                     19    1.1212952E-08
+                     20    1.1038831E-08
+                     21    1.0775520E-08
+                     22    1.0998265E-08
+                     23    1.0120416E-08
+                     24    7.0942438E-09
+       P-solution converged in    24 solver iterations  (Error ~  7.1E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    7.7642371E-02
+                      1    5.8591029E-03
+                      2    1.0405924E-03
+                      3    1.9525860E-04
+                      4    2.3976946E-05
+                      5    2.4567773E-06
+                      6    2.5728487E-07
+                      7    3.3408091E-08
+                      8    3.6142162E-09
+       U-solution converged in     8 solver iterations  (Error ~  3.6E-09)
+ TIME STEP        6 OF       16;   ELAPSED TIME:  2.1464E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4867517E-08
+                      1    2.4099152E-08
+                      2    2.5844101E-08
+                      3    3.6129712E-08
+                      4    3.1871761E-08
+                      5    3.6496895E-08
+                      6    3.0359493E-08
+                      7    2.6169576E-08
+                      8    2.4776897E-08
+                      9    1.9137275E-08
+                     10    1.5250677E-08
+                     11    1.6612142E-08
+                     12    1.4841495E-08
+                     13    1.5382362E-08
+                     14    1.0363557E-08
+                     15    1.4604015E-08
+                     16    1.4969333E-08
+                     17    1.0930843E-08
+                     18    1.1352480E-08
+                     19    7.0324543E-09
+       P-solution converged in    19 solver iterations  (Error ~  7.0E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    7.4423261E-02
+                      1    4.1053130E-03
+                      2    8.8355241E-04
+                      3    1.8544646E-04
+                      4    2.9079075E-05
+                      5    3.9009060E-06
+                      6    4.1408327E-07
+                      7    5.2391309E-08
+                      8    7.7645276E-09
+       U-solution converged in     8 solver iterations  (Error ~  7.8E-09)
+ TIME STEP        7 OF       16;   ELAPSED TIME:  3.1365E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3999108E-08
+                      1    1.5021173E-08
+                      2    1.8890336E-08
+                      3    3.4837623E-08
+                      4    3.1249224E-08
+                      5    2.8294221E-08
+                      6    3.1427988E-08
+                      7    2.6184188E-08
+                      8    2.8771036E-08
+                      9    2.6682609E-08
+                     10    1.8305635E-08
+                     11    1.5547119E-08
+                     12    1.2559285E-08
+                     13    1.7595292E-08
+                     14    1.5285282E-08
+                     15    1.3662381E-08
+                     16    7.7927372E-09
+       P-solution converged in    16 solver iterations  (Error ~  7.8E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    8.0088009E-02
+                      1    3.0375903E-03
+                      2    7.5031569E-04
+                      3    1.6255079E-04
+                      4    3.4600642E-05
+                      5    5.5255687E-06
+                      6    8.4238482E-07
+                      7    1.2550225E-07
+                      8    1.9778383E-08
+                      9    2.5386716E-09
+       U-solution converged in     9 solver iterations  (Error ~  2.5E-09)
+ TIME STEP        8 OF       16;   ELAPSED TIME:  4.5226E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4228291E-08
+                      1    9.7772228E-09
+       P-solution converged in     1 solver iterations  (Error ~  9.8E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    9.4710023E-02
+                      1    2.6135516E-03
+                      2    6.3138229E-04
+                      3    1.5110047E-04
+                      4    3.6583198E-05
+                      5    6.9690589E-06
+                      6    1.4237493E-06
+                      7    2.5232783E-07
+                      8    4.8570270E-08
+                      9    1.0119419E-08
+                     10    1.9138043E-09
+       U-solution converged in    10 solver iterations  (Error ~  1.9E-09)
+ TIME STEP        9 OF       16;   ELAPSED TIME:  6.4631E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6713220E-08
+                      1    1.4025801E-08
+                      2    1.2497410E-08
+                      3    3.7481138E-08
+                      4    3.4524560E-08
+                      5    3.4200760E-08
+                      6    4.2452028E-08
+                      7    3.9496404E-08
+                      8    4.1393343E-08
+                      9    2.7165163E-08
+                     10    3.5784028E-08
+                     11    3.4591923E-08
+                     12    2.5216999E-08
+                     13    1.7751876E-08
+                     14    2.3096869E-08
+                     15    1.6683566E-08
+                     16    1.7316778E-08
+                     17    2.1558785E-08
+                     18    1.4892055E-08
+                     19    1.7293693E-08
+                     20    1.2821874E-08
+                     21    1.3000780E-08
+                     22    1.5034919E-08
+                     23    1.7173164E-08
+                     24    2.2840590E-08
+                     25    1.9658189E-08
+                     26    1.9639391E-08
+                     27    1.6477458E-08
+                     28    1.6959073E-08
+                     29    1.7923574E-08
+                     30    1.5028613E-08
+                     31    1.9796965E-08
+                     32    1.3886840E-08
+                     33    1.0552005E-08
+                     34    1.0971338E-08
+                     35    1.1893458E-08
+                     36    8.1310362E-09
+       P-solution converged in    36 solver iterations  (Error ~  8.1E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0869825E-01
+                      1    2.5801328E-03
+                      2    4.0356482E-04
+                      3    9.1053302E-05
+                      4    2.9026328E-05
+                      5    8.7181956E-06
+                      6    2.1713643E-06
+                      7    4.9503915E-07
+                      8    1.0830226E-07
+                      9    2.0857826E-08
+                     10    5.1680346E-09
+       U-solution converged in    10 solver iterations  (Error ~  5.2E-09)
+ TIME STEP       10 OF       16;   ELAPSED TIME:  9.1798E+07 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5623389E-08
+                      1    1.4026743E-08
+                      2    9.7412969E-09
+       P-solution converged in     2 solver iterations  (Error ~  9.7E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3936855E-01
+                      1    6.8019627E-03
+                      2    2.1854016E-03
+                      3    4.6470618E-04
+                      4    9.6354512E-05
+                      5    2.2442880E-05
+                      6    6.4852447E-06
+                      7    1.6445251E-06
+                      8    3.7264244E-07
+                      9    9.6788477E-08
+                     10    2.5844545E-08
+                     10    2.5844545E-08
+                     11    8.4780153E-09
+       U-solution converged in    11 solver iterations  (Error ~  8.5E-09)
+ TIME STEP       11 OF       16;   ELAPSED TIME:  1.2983E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4186355E-08
+                      1    1.0608878E-08
+                      2    1.0862793E-08
+                      3    1.8021809E-08
+                      4    1.6615092E-08
+                      5    1.9382051E-08
+                      6    1.9528139E-08
+                      7    2.4309080E-08
+                      8    1.9281089E-08
+                      9    1.7531895E-08
+                     10    1.8843629E-08
+                     11    1.4195336E-08
+                     12    1.3691938E-08
+                     13    1.5221474E-08
+                     14    1.4288910E-08
+                     15    1.6479543E-08
+                     16    1.5748860E-08
+                     17    2.0529536E-08
+                     18    1.5059178E-08
+                     19    1.5574907E-08
+                     20    1.4984543E-08
+                     21    1.4764421E-08
+                     22    1.6266855E-08
+                     23    2.0297046E-08
+                     24    1.9689362E-08
+                     25    2.1184545E-08
+                     26    2.4199191E-08
+                     27    1.8382304E-08
+                     28    1.3716174E-08
+                     29    1.5037493E-08
+                     30    9.2746285E-09
+       P-solution converged in    30 solver iterations  (Error ~  9.3E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5262665E-01
+                      1    6.1678819E-03
+                      2    1.4656108E-03
+                      3    4.0108835E-04
+                      4    1.1052115E-04
+                      5    3.0849356E-05
+                      6    1.0823847E-05
+                      7    3.0881132E-06
+                      8    8.4452430E-07
+                      9    1.6390092E-07
+                     10    3.9354244E-08
+                     10    3.9354244E-08
+                     11    1.3681527E-08
+                     12    4.1408725E-09
+       U-solution converged in    12 solver iterations  (Error ~  4.1E-09)
+ TIME STEP       12 OF       16;   ELAPSED TIME:  1.8308E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7944147E-08
+                      1    1.0854273E-08
+                      2    1.1254822E-08
+                      3    1.2737203E-08
+                      4    1.2359841E-08
+                      5    1.0183372E-08
+                      6    1.5067341E-08
+                      7    1.0385711E-08
+                      8    1.0947005E-08
+                      9    1.1090857E-08
+                     10    8.1246514E-09
+       P-solution converged in    10 solver iterations  (Error ~  8.1E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6849450E-01
+                      1    1.2592518E-02
+                      2    3.5031618E-03
+                      3    1.2321646E-03
+                      4    4.4903535E-04
+                      5    1.4790245E-04
+                      6    4.4138759E-05
+                      7    1.4856915E-05
+                      8    4.5233744E-06
+                      9    1.0954252E-06
+                     10    2.7943680E-07
+                     10    2.7943680E-07
+                     11    1.0555692E-07
+                     12    3.6804480E-08
+                     13    1.2289126E-08
+                     14    3.0092252E-09
+       U-solution converged in    14 solver iterations  (Error ~  3.0E-09)
+ TIME STEP       13 OF       16;   ELAPSED TIME:  2.5763E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3530053E-08
+                      1    8.7858875E-09
+       P-solution converged in     1 solver iterations  (Error ~  8.8E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4668215E-01
+                      1    1.0533108E-02
+                      2    3.3776125E-03
+                      3    1.1811942E-03
+                      4    3.7925201E-04
+                      5    1.2200681E-04
+                      6    3.8585316E-05
+                      7    1.1567448E-05
+                      8    4.5404254E-06
+                      9    1.7325642E-06
+                     10    5.6269478E-07
+                     10    5.6269478E-07
+                     11    2.6766901E-07
+                     12    1.0103235E-07
+                     13    3.2819174E-08
+                     14    1.1718047E-08
+                     15    4.3974173E-09
+       U-solution converged in    15 solver iterations  (Error ~  4.4E-09)
+ TIME STEP       14 OF       16;   ELAPSED TIME:  3.6199E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5730681E-08
+                      1    9.6726298E-09
+       P-solution converged in     1 solver iterations  (Error ~  9.7E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0272912E-01
+                      1    1.1007331E-02
+                      2    3.9193410E-03
+                      3    1.5147061E-03
+                      4    4.7318274E-04
+                      5    1.3337889E-04
+                      6    4.2427786E-05
+                      7    1.4080427E-05
+                      8    4.5559610E-06
+                      9    1.7348239E-06
+                     10    5.8026434E-07
+                     10    5.8026434E-07
+                     11    2.6727208E-07
+                     12    1.1459905E-07
+                     13    4.0239761E-08
+                     14    1.1301711E-08
+                     15    3.5210228E-09
+       U-solution converged in    15 solver iterations  (Error ~  3.5E-09)
+ TIME STEP       15 OF       16;   ELAPSED TIME:  5.0810E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3897624E-08
+                      1    9.4184675E-09
+       P-solution converged in     1 solver iterations  (Error ~  9.4E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    5.4806510E-02
+                      1    8.9727965E-03
+                      2    3.3397306E-03
+                      3    1.3274328E-03
+                      4    4.4398776E-04
+                      5    1.3877096E-04
+                      6    5.0917271E-05
+                      7    1.7520277E-05
+                      8    5.8697747E-06
+                      9    2.1445128E-06
+                     10    7.3880327E-07
+                     10    7.3880327E-07
+                     11    3.7758914E-07
+                     12    1.6801278E-07
+                     13    6.2075337E-08
+                     14    2.1705141E-08
+                     15    6.8049756E-09
+       U-solution converged in    15 solver iterations  (Error ~  6.8E-09)
+ TIME STEP       16 OF       16;   ELAPSED TIME:  7.1266E+08 OF  7.1266E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1800445E-08
+                      1    1.0788052E-08
+                      2    1.1702961E-08
+                      3    2.2857484E-08
+                      4    1.5122995E-08
+                      5    8.8151797E-09
+       P-solution converged in     5 solver iterations  (Error ~  8.8E-09)
+       Starting U-solution using GMRES solver ...
+       Solver Iteration   Error Estimate
+                      0    2.8516312E-02
+                      1    6.3353481E-03
+                      2    2.4856658E-03
+                      3    1.0183120E-03
+                      4    3.8522500E-04
+                      5    1.4356834E-04
+                      6    5.6945671E-05
+                      7    1.8532979E-05
+                      8    6.0396160E-06
+                      9    2.0666634E-06
+                     10    7.1175521E-07
+                     10    7.1175521E-07
+                     11    3.8991921E-07
+                     12    1.8045888E-07
+                     13    6.6910903E-08
+                     14    2.3606931E-08
+                     15    8.1804201E-09
+       U-solution converged in    15 solver iterations  (Error ~  8.2E-09)
+
+ S I M U L A T I O N   E N D E D
+

@@ -1,0 +1,3717 @@
+
+          =====================================================
+
+                          S    U    T    R    A
+
+                               Version 2.2     
+
+          =====================================================
+
+ SUTRA Model created using Argus ONE and Sutra GUI
+ U.S. Geological Survey example parameter values
+ 
+ TIME STEP        1 OF      100;   ELAPSED TIME:  6.3115E+06 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.0125759E-09
+                      1    8.3895636E-11
+                      2    9.2931833E-11
+                      3    5.1701014E-11
+                      4    4.7243883E-11
+                      5    5.9281148E-11
+                      6    5.5674353E-11
+                      7    4.3736348E-11
+                      8    5.7598467E-11
+                      9    5.6910199E-11
+                     10    4.0857982E-11
+                     11    3.2410575E-11
+                     12    2.4265894E-11
+                     13    1.8444396E-11
+                     14    1.1970015E-11
+                     15    1.7419184E-11
+                     16    1.3808999E-11
+                     17    8.5345825E-12
+                     18    8.2184876E-12
+                     19    5.2804587E-12
+                     20    4.0803675E-12
+                     21    3.4444865E-12
+                     22    1.7989434E-12
+                     23    1.1993402E-12
+                     24    8.8137325E-13
+                     25    4.1389780E-13
+                     26    2.5001567E-13
+                     27    1.8222412E-13
+                     28    1.0059811E-13
+                     29    6.6468064E-14
+       P-solution converged in    29 solver iterations  (Error ~  6.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.8248817E-02
+                      1    1.0164658E-05
+                      2    6.4516822E-08
+                      3    2.0566260E-10
+                      4    1.0656146E-12
+                      5    4.8285627E-15
+       U-solution converged in     5 solver iterations  (Error ~  4.8E-15)
+ TIME STEP        2 OF      100;   ELAPSED TIME:  1.2623E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4298086E-09
+                      1    6.8356788E-11
+                      2    2.3580688E-11
+                      3    2.1058428E-11
+                      4    1.8336602E-11
+                      5    1.5464175E-11
+                      6    1.3890021E-11
+                      7    1.2377945E-11
+                      8    1.0495388E-11
+                      9    1.5481509E-11
+                     10    1.5785008E-11
+                     11    1.0975602E-11
+                     12    1.3717952E-11
+                     13    8.1713201E-12
+                     14    5.7930443E-12
+                     15    3.8007987E-12
+                     16    3.3545666E-12
+                     17    3.4101236E-12
+                     18    3.0737668E-12
+                     19    2.2247092E-12
+                     20    1.4432841E-12
+                     21    1.3986398E-12
+                     22    9.8417200E-13
+                     23    7.1450140E-13
+                     24    4.3648693E-13
+                     25    2.9687319E-13
+                     26    2.0023883E-13
+                     27    1.1013645E-13
+                     28    5.9721007E-14
+       P-solution converged in    28 solver iterations  (Error ~  6.0E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    9.2316650E-01
+                      1    5.1718294E-02
+                      2    3.2351672E-03
+                      3    4.5291643E-04
+                      4    1.9217362E-04
+                      5    3.4086589E-05
+                      6    3.0620238E-06
+                      7    6.3295351E-07
+                      8    2.0919385E-07
+                      9    1.5864378E-08
+                     10    4.4271564E-09
+                     11    6.7801453E-10
+                     12    1.2401905E-10
+                     13    2.1362633E-11
+                     14    3.4307187E-12
+                     15    7.8623990E-13
+                     16    1.0847385E-13
+                     17    2.7998348E-14
+       U-solution converged in    17 solver iterations  (Error ~  2.8E-14)
+ TIME STEP        3 OF      100;   ELAPSED TIME:  1.8935E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7248256E-10
+                      1    1.8821702E-11
+                      2    6.7987672E-12
+                      3    5.2064165E-12
+                      4    6.8438848E-12
+                      5    7.1292243E-12
+                      6    6.3542733E-12
+                      7    6.0981821E-12
+                      8    5.6972709E-12
+                      9    5.5365661E-12
+                     10    6.5136247E-12
+                     11    3.7350052E-12
+                     12    3.4628938E-12
+                     13    2.3587322E-12
+                     14    2.4513560E-12
+                     15    1.7878180E-12
+                     16    1.6486606E-12
+                     17    1.4922976E-12
+                     18    1.0875754E-12
+                     19    7.6815898E-13
+                     20    5.6076910E-13
+                     21    4.0975060E-13
+                     22    2.7566403E-13
+                     23    2.1307295E-13
+                     24    1.3620770E-13
+                     25    8.5260343E-14
+       P-solution converged in    25 solver iterations  (Error ~  8.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.5383631E-02
+                      1    2.5343983E-03
+                      2    3.5296489E-04
+                      3    3.2958087E-05
+                      4    8.9527139E-06
+                      5    8.6744287E-07
+                      6    1.0162383E-07
+                      7    1.7911374E-08
+                      8    2.6075253E-09
+                      9    3.8718509E-10
+                     10    5.8569642E-11
+                     11    5.1889078E-12
+                     12    1.1206744E-12
+                     13    1.0734880E-13
+                     14    1.7628602E-14
+       U-solution converged in    14 solver iterations  (Error ~  1.8E-14)
+ TIME STEP        4 OF      100;   ELAPSED TIME:  2.5246E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.3668847E-10
+                      1    1.2840979E-11
+                      2    2.4623506E-12
+                      3    1.7479136E-12
+                      4    1.1656083E-12
+                      5    1.1128308E-12
+                      6    9.7947293E-13
+                      7    8.7435274E-13
+                      8    7.7598796E-13
+                      9    6.9335140E-13
+                     10    7.5101593E-13
+                     11    6.7767042E-13
+                     12    5.6579342E-13
+                     13    5.4505258E-13
+                     14    5.4000201E-13
+                     15    3.6825981E-13
+                     16    3.6485499E-13
+                     17    3.6179769E-13
+                     18    3.5145393E-13
+                     19    2.7074443E-13
+                     20    2.3172147E-13
+                     21    1.5534741E-13
+                     22    1.0912086E-13
+                     23    8.5529793E-14
+       P-solution converged in    23 solver iterations  (Error ~  8.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.7516068E-02
+                      1    3.2725724E-03
+                      2    4.9478875E-04
+                      3    6.0917758E-05
+                      4    1.4424147E-05
+                      5    1.0328759E-06
+                      6    1.1051317E-07
+                      7    2.3953050E-08
+                      8    3.3123903E-09
+                      9    5.4975267E-10
+                     10    6.1895111E-11
+                     11    7.5213135E-12
+                     12    1.0796923E-12
+                     13    1.4698023E-13
+                     14    2.2424668E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.2E-14)
+ TIME STEP        5 OF      100;   ELAPSED TIME:  3.1558E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.0023445E-11
+                      1    7.2206377E-12
+                      2    3.6995197E-12
+                      3    2.1111734E-12
+                      4    1.3287039E-12
+                      5    8.8941883E-13
+                      6    7.5946825E-13
+                      7    8.6367809E-13
+                      8    6.8539337E-13
+                      9    6.8793089E-13
+                     10    9.3508665E-13
+                     11    7.1731810E-13
+                     12    7.7538423E-13
+                     13    6.1521762E-13
+                     14    6.4489455E-13
+                     15    3.9029531E-13
+                     16    2.6522753E-13
+                     17    1.6987282E-13
+                     18    1.0843718E-13
+                     19    8.0075477E-14
+       P-solution converged in    19 solver iterations  (Error ~  8.0E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3549312E-02
+                      1    9.0997938E-04
+                      2    2.0428364E-04
+                      3    1.3999126E-05
+                      4    6.1144856E-06
+                      5    3.9270812E-07
+                      6    8.2175830E-08
+                      7    1.2066182E-08
+                      8    1.2336877E-09
+                      9    1.9249351E-10
+                     10    2.8505505E-11
+                     11    5.3116477E-12
+                     12    5.1200918E-13
+                     13    1.1423728E-13
+                     14    1.5271799E-14
+       U-solution converged in    14 solver iterations  (Error ~  1.5E-14)
+ TIME STEP        6 OF      100;   ELAPSED TIME:  3.7869E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.9831721E-11
+                      1    6.2386315E-12
+                      2    3.4054114E-12
+                      3    1.9863744E-12
+                      4    1.3767501E-12
+                      5    1.0239167E-12
+                      6    8.4263364E-13
+                      7    7.0118360E-13
+                      8    3.4307180E-13
+                      9    3.0583810E-13
+                     10    2.5102420E-13
+                     11    1.8608762E-13
+                     12    1.5801334E-13
+                     13    1.2966415E-13
+                     14    1.3457308E-13
+                     15    8.8582462E-14
+       P-solution converged in    15 solver iterations  (Error ~  8.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    9.6837305E-03
+                      1    6.6247682E-04
+                      2    1.4137790E-04
+                      3    1.8581918E-05
+                      4    4.5268068E-06
+                      5    3.5435192E-07
+                      6    7.8408522E-08
+                      7    9.9725163E-09
+                      8    1.3255325E-09
+                      9    1.7697225E-10
+                     10    3.3322489E-11
+                     11    5.0144095E-12
+                     12    5.7129316E-13
+                     13    1.0253170E-13
+                     14    1.5941915E-14
+       U-solution converged in    14 solver iterations  (Error ~  1.6E-14)
+ TIME STEP        7 OF      100;   ELAPSED TIME:  4.4181E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.9875450E-11
+                      1    5.3984069E-12
+                      2    3.2703236E-12
+                      3    1.9961115E-12
+                      4    1.3050626E-12
+                      5    9.2383047E-13
+                      6    7.8585616E-13
+                      7    6.7793333E-13
+                      8    3.6326521E-13
+                      9    3.7017103E-13
+                     10    3.5619493E-13
+                     11    3.0309909E-13
+                     12    3.1328760E-13
+                     13    3.1435330E-13
+                     14    3.3534321E-13
+                     15    2.6592679E-13
+                     16    1.9696615E-13
+                     17    1.8311270E-13
+                     18    1.6241605E-13
+                     19    1.6207667E-13
+                     20    1.4278709E-13
+                     21    1.0396440E-13
+                     22    9.1503324E-14
+       P-solution converged in    22 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.7512296E-03
+                      1    4.1665109E-04
+                      2    6.7627735E-05
+                      3    1.1728869E-05
+                      4    2.0078115E-06
+                      5    2.3568992E-07
+                      6    4.3749454E-08
+                      7    7.3030209E-09
+                      8    9.2394706E-10
+                      9    1.3151571E-10
+                     10    2.5303408E-11
+                     11    3.9692878E-12
+                     12    4.7196780E-13
+                     13    9.2382914E-14
+       U-solution converged in    13 solver iterations  (Error ~  9.2E-14)
+ TIME STEP        8 OF      100;   ELAPSED TIME:  5.0492E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9143231E-11
+                      1    5.2708621E-12
+                      2    3.2452628E-12
+                      3    2.1959167E-12
+                      4    1.4441982E-12
+                      5    1.0018315E-12
+                      6    8.9209411E-13
+                      7    6.3537150E-13
+                      8    3.1915631E-13
+                      9    3.2992937E-13
+                     10    2.4337896E-13
+                     11    2.2877980E-13
+                     12    1.9140633E-13
+                     13    2.2744496E-13
+                     14    2.1314770E-13
+                     15    1.7286013E-13
+                     16    1.3742791E-13
+                     17    1.3127846E-13
+                     18    1.2145456E-13
+                     19    1.1928046E-13
+                     20    1.1203083E-13
+                     21    8.3776611E-14
+       P-solution converged in    21 solver iterations  (Error ~  8.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.0881403E-03
+                      1    3.4007398E-04
+                      2    5.7201793E-05
+                      3    1.1310258E-05
+                      4    1.8346101E-06
+                      5    2.2094307E-07
+                      6    4.8296135E-08
+                      7    6.3284774E-09
+                      8    8.5743255E-10
+                      9    1.4920937E-10
+                     10    2.5583401E-11
+                     11    4.0084506E-12
+                     12    5.7627700E-13
+                     13    1.0379775E-13
+                     14    1.5308233E-14
+       U-solution converged in    14 solver iterations  (Error ~  1.5E-14)
+ TIME STEP        9 OF      100;   ELAPSED TIME:  5.6804E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3981275E-11
+                      1    5.6262481E-12
+                      2    3.1347825E-12
+                      3    2.0164572E-12
+                      4    1.4617644E-12
+                      5    9.9124796E-13
+                      6    9.2805056E-13
+                      7    6.4287237E-13
+                      8    3.1161570E-13
+                      9    3.9942296E-13
+                     10    2.9290647E-13
+                     11    2.8320398E-13
+                     12    2.6758496E-13
+                     13    3.2177008E-13
+                     14    2.8958055E-13
+                     15    2.4309427E-13
+                     16    1.8026281E-13
+                     17    1.6785192E-13
+                     18    1.6204968E-13
+                     19    1.4266960E-13
+                     20    1.2747159E-13
+                     21    9.3082443E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.7805654E-03
+                      1    2.8795586E-04
+                      2    5.1201924E-05
+                      3    9.9524229E-06
+                      4    1.4738624E-06
+                      5    2.1407869E-07
+                      6    4.3503980E-08
+                      7    6.4136997E-09
+                      8    8.8865194E-10
+                      9    1.5770489E-10
+                     10    2.6677097E-11
+                     11    4.3991779E-12
+                     12    6.6981238E-13
+                     13    1.2408191E-13
+                     14    1.7186905E-14
+       U-solution converged in    14 solver iterations  (Error ~  1.7E-14)
+ TIME STEP       10 OF      100;   ELAPSED TIME:  6.3115E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2042071E-11
+                      1    5.4337564E-12
+                      2    3.0958206E-12
+                      3    2.0736804E-12
+                      4    1.4943891E-12
+                      5    1.0121235E-12
+                      6    1.0046163E-12
+                      7    5.9610768E-13
+                      8    3.0906166E-13
+                      9    3.8861365E-13
+                     10    2.6193263E-13
+                     11    2.6002703E-13
+                     12    2.2999599E-13
+                     13    2.7813754E-13
+                     14    2.4892220E-13
+                     15    2.0572040E-13
+                     16    1.6585998E-13
+                     17    1.4844285E-13
+                     18    1.4957332E-13
+                     19    1.3844956E-13
+                     20    1.1425519E-13
+                     21    9.1927886E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.5187883E-03
+                      1    2.5190554E-04
+                      2    4.9650183E-05
+                      3    9.2009765E-06
+                      4    1.4329616E-06
+                      5    2.1705527E-07
+                      6    4.3832172E-08
+                      7    6.5358893E-09
+                      8    9.5879086E-10
+                      9    1.7332402E-10
+                     10    2.9779004E-11
+                     11    5.0096175E-12
+                     12    7.9234513E-13
+                     13    1.4576701E-13
+                     14    2.0956652E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.1E-14)
+ TIME STEP       11 OF      100;   ELAPSED TIME:  6.9427E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0897995E-11
+                      1    5.9568343E-12
+                      2    3.2100426E-12
+                      3    1.9735078E-12
+                      4    1.4579945E-12
+                      5    1.0464661E-12
+                      6    1.0078117E-12
+                      7    5.5076643E-13
+                      8    3.2070911E-13
+                      9    3.9518166E-13
+                     10    2.6778089E-13
+                     11    2.7983520E-13
+                     12    2.5110079E-13
+                     13    2.9248971E-13
+                     14    2.6496722E-13
+                     15    2.1058775E-13
+                     16    1.7375268E-13
+                     17    1.6049972E-13
+                     18    1.5734809E-13
+                     19    1.4288800E-13
+                     20    1.1703095E-13
+                     21    9.5537985E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.2798140E-03
+                      1    2.2480428E-04
+                      2    4.7653923E-05
+                      3    8.5483245E-06
+                      4    1.3455367E-06
+                      5    2.1815238E-07
+                      6    4.2840269E-08
+                      7    6.7113720E-09
+                      8    1.0323265E-09
+                      9    1.8595744E-10
+                     10    3.2466841E-11
+                     11    5.6394165E-12
+                     12    9.1585901E-13
+                     13    1.6925170E-13
+                     14    2.4836121E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.5E-14)
+ TIME STEP       12 OF      100;   ELAPSED TIME:  7.5738E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0084499E-11
+                      1    5.5528614E-12
+                      2    3.0315372E-12
+                      3    1.9853614E-12
+                      4    1.4482689E-12
+                      5    1.0457834E-12
+                      6    1.0492866E-12
+                      7    5.1083820E-13
+                      8    3.2853626E-13
+                      9    3.8316233E-13
+                     10    2.6294428E-13
+                     11    2.7500716E-13
+                     12    2.4548932E-13
+                     13    2.9049612E-13
+                     14    2.5232581E-13
+                     15    2.0958354E-13
+                     16    1.6989878E-13
+                     17    1.5676691E-13
+                     18    1.6160351E-13
+                     19    1.3903999E-13
+                     20    1.1477325E-13
+                     21    9.6667577E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.0522711E-03
+                      1    2.0438371E-04
+                      2    4.5921839E-05
+                      3    8.0894881E-06
+                      4    1.2892757E-06
+                      5    2.1966124E-07
+                      6    4.2375949E-08
+                      7    6.8576157E-09
+                      8    1.1060233E-09
+                      9    1.9773044E-10
+                     10    3.5250661E-11
+                     11    6.2929575E-12
+                     12    1.0404980E-12
+                     13    1.9248769E-13
+                     14    2.9169700E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.9E-14)
+ TIME STEP       13 OF      100;   ELAPSED TIME:  8.2050E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.4171935E-12
+                      1    5.5059556E-12
+                      2    2.9508727E-12
+                      3    1.9707920E-12
+                      4    1.4242599E-12
+                      5    1.0554941E-12
+                      6    1.0489710E-12
+                      7    4.7031684E-13
+                      8    3.4517479E-13
+                      9    3.6824403E-13
+                     10    2.6767938E-13
+                     11    2.7466773E-13
+                     12    2.4958778E-13
+                     13    2.9330751E-13
+                     14    2.4552811E-13
+                     15    2.1078601E-13
+                     16    1.6735667E-13
+                     17    1.6064175E-13
+                     18    1.6352707E-13
+                     19    1.3638322E-13
+                     20    1.1526880E-13
+                     21    9.6308014E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.8374138E-03
+                      1    1.8869504E-04
+                      2    4.4237904E-05
+                      3    7.7577181E-06
+                      4    1.2398201E-06
+                      5    2.2073499E-07
+                      6    4.2099319E-08
+                      7    7.0097765E-09
+                      8    1.1776960E-09
+                      9    2.0853523E-10
+                     10    3.7909305E-11
+                     11    6.9461239E-12
+                     12    1.1628377E-12
+                     13    2.1568467E-13
+                     14    3.3739085E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.4E-14)
+ TIME STEP       14 OF      100;   ELAPSED TIME:  8.8361E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.8482995E-12
+                      1    5.3207800E-12
+                      2    2.8226146E-12
+                      3    1.9879429E-12
+                      4    1.3907179E-12
+                      5    1.0697186E-12
+                      6    1.0412324E-12
+                      7    4.4135967E-13
+                      8    3.5923147E-13
+                      9    3.5160060E-13
+                     10    2.7346177E-13
+                     11    2.6697691E-13
+                     12    2.5578306E-13
+                     13    2.9217004E-13
+                     14    2.3786438E-13
+                     15    2.1352574E-13
+                     16    1.6093189E-13
+                     17    1.6529288E-13
+                     18    1.6136698E-13
+                     19    1.3481080E-13
+                     20    1.1405176E-13
+                     21    9.5553498E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.6344702E-03
+                      1    1.7630541E-04
+                      2    4.2636210E-05
+                      3    7.5165904E-06
+                      4    1.2006973E-06
+                      5    2.2137194E-07
+                      6    4.2093818E-08
+                      7    7.1657782E-09
+                      8    1.2459193E-09
+                      9    2.1877600E-10
+                     10    4.0514415E-11
+                     11    7.5910677E-12
+                     12    1.2818928E-12
+                     13    2.3845873E-13
+                     14    3.8493257E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.8E-14)
+ TIME STEP       15 OF      100;   ELAPSED TIME:  9.4673E+07 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.3469920E-12
+                      1    5.1999758E-12
+                      2    2.7180253E-12
+                      3    2.0106907E-12
+                      4    1.3492732E-12
+                      5    1.0969882E-12
+                      6    1.0136513E-12
+                      7    4.2391692E-13
+                      8    3.6707655E-13
+                      9    3.3854582E-13
+                     10    2.7817934E-13
+                     11    2.5942633E-13
+                     12    2.6447372E-13
+                     13    2.8479700E-13
+                     14    2.3294907E-13
+                     15    2.1010463E-13
+                     16    1.5586991E-13
+                     17    1.6907149E-13
+                     18    1.5684790E-13
+                     19    1.3475632E-13
+                     20    1.1113306E-13
+                     21    9.6332816E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.4431784E-03
+                      1    1.6619189E-04
+                      2    4.1091704E-05
+                      3    7.3308917E-06
+                      4    1.1685479E-06
+                      5    2.2139535E-07
+                      6    4.2264293E-08
+                      7    7.3297018E-09
+                      8    1.3097617E-09
+                      9    2.2860004E-10
+                     10    4.3058496E-11
+                     11    8.2188674E-12
+                     12    1.3975481E-12
+                     13    2.6091157E-13
+                     14    4.3363543E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.3E-14)
+ TIME STEP       16 OF      100;   ELAPSED TIME:  1.0098E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    7.9004953E-12
+                      1    5.0443936E-12
+                      2    2.6197825E-12
+                      3    2.0363298E-12
+                      4    1.3011276E-12
+                      5    1.1348238E-12
+                      6    9.6469865E-13
+                      7    4.1807691E-13
+                      8    3.6275310E-13
+                      9    3.3640431E-13
+                     10    2.7566102E-13
+                     11    2.5689632E-13
+                     12    2.6738465E-13
+                     13    2.7877992E-13
+                     14    2.3107096E-13
+                     15    2.0588762E-13
+                     16    1.5383782E-13
+                     17    1.6875525E-13
+                     18    1.5471947E-13
+                     19    1.3201398E-13
+                     20    1.0911231E-13
+                     21    9.5738594E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.2628507E-03
+                      1    1.5767137E-04
+                      2    3.9597718E-05
+                      3    7.1751931E-06
+                      4    1.1417156E-06
+                      5    2.2073983E-07
+                      6    4.2515482E-08
+                      7    7.4962485E-09
+                      8    1.3685340E-09
+                      9    2.3796758E-10
+                     10    4.5526514E-11
+                     11    8.8221971E-12
+                     12    1.5095707E-12
+                     13    2.8305969E-13
+                     14    4.8297178E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.8E-14)
+ TIME STEP       17 OF      100;   ELAPSED TIME:  1.0730E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    7.4966622E-12
+                      1    4.8814483E-12
+                      2    2.5374811E-12
+                      3    2.0518600E-12
+                      4    1.2576185E-12
+                      5    1.1809951E-12
+                      6    9.0473232E-13
+                      7    4.1555478E-13
+                      8    3.5245436E-13
+                      9    3.3793555E-13
+                     10    2.6767681E-13
+                     11    2.6014766E-13
+                     12    2.6327542E-13
+                     13    2.7662019E-13
+                     14    2.2587188E-13
+                     15    2.0272137E-13
+                     16    1.5078762E-13
+                     17    1.6716651E-13
+                     18    1.5336529E-13
+                     19    1.2800937E-13
+                     20    1.0810223E-13
+                     21    9.5352796E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.0927516E-03
+                      1    1.5029129E-04
+                      2    3.8150606E-05
+                      3    7.0330175E-06
+                      4    1.1185142E-06
+                      5    2.1940941E-07
+                      6    4.2762340E-08
+                      7    7.6583273E-09
+                      8    1.4218036E-09
+                      9    2.4676064E-10
+                     10    4.7880623E-11
+                     11    9.3951263E-12
+                     12    1.6174961E-12
+                     13    3.0491617E-13
+                     14    5.3247966E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.3E-14)
+ TIME STEP       18 OF      100;   ELAPSED TIME:  1.1361E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    7.1268582E-12
+                      1    4.7101614E-12
+                      2    2.4700709E-12
+                      3    2.0515476E-12
+                      4    1.2234124E-12
+                      5    1.2275234E-12
+                      6    8.4840372E-13
+                      7    4.1203144E-13
+                      8    3.4208256E-13
+                      9    3.4212575E-13
+                     10    2.6021514E-13
+                     11    2.6378244E-13
+                     12    2.5535530E-13
+                     13    2.7794211E-13
+                     14    2.2040676E-13
+                     15    2.0275828E-13
+                     16    1.4708932E-13
+                     17    1.6806023E-13
+                     18    1.5007779E-13
+                     19    1.2601208E-13
+                     20    1.0473971E-13
+                     21    9.4428292E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.9320404E-03
+                      1    1.4374279E-04
+                      2    3.6739836E-05
+                      3    6.8924954E-06
+                      4    1.0976897E-06
+                      5    2.1740048E-07
+                      6    4.2937432E-08
+                      7    7.8074329E-09
+                      8    1.4691494E-09
+                      9    2.5478897E-10
+                     10    5.0063038E-11
+                     11    9.9299057E-12
+                     12    1.7199591E-12
+                     13    3.2626002E-13
+                     14    5.8156586E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.8E-14)
+ TIME STEP       19 OF      100;   ELAPSED TIME:  1.1992E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    6.7879288E-12
+                      1    4.5327075E-12
+                      2    2.4181883E-12
+                      3    2.0280507E-12
+                      4    1.2038285E-12
+                      5    1.2618849E-12
+                      6    8.0080678E-13
+                      7    4.0133805E-13
+                      8    3.3617332E-13
+                      9    3.4006369E-13
+                     10    2.5492994E-13
+                     11    2.6443726E-13
+                     12    2.5045019E-13
+                     13    2.7465357E-13
+                     14    2.1454275E-13
+                     15    1.9981320E-13
+                     16    1.4257401E-13
+                     17    1.6859591E-13
+                     18    1.4633674E-13
+                     19    1.2507317E-13
+                     20    1.0080209E-13
+                     21    9.6231804E-14
+       P-solution converged in    21 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.7800375E-03
+                      1    1.3780504E-04
+                      2    3.5368912E-05
+                      3    6.7481491E-06
+                      4    1.0782393E-06
+                      5    2.1480138E-07
+                      6    4.2998894E-08
+                      7    7.9362182E-09
+                      8    1.5101948E-09
+                      9    2.6193299E-10
+                     10    5.2023881E-11
+                     11    1.0421547E-11
+                     12    1.8157689E-12
+                     13    3.4686943E-13
+                     14    6.2960990E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.3E-14)
+ TIME STEP       20 OF      100;   ELAPSED TIME:  1.2623E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    6.4764201E-12
+                      1    4.3516247E-12
+                      2    2.3783474E-12
+                      3    1.9813639E-12
+                      4    1.1946706E-12
+                      5    1.2665808E-12
+                      6    7.6641170E-13
+                      7    3.8575935E-13
+                      8    3.3409240E-13
+                      9    3.3404236E-13
+                     10    2.5288883E-13
+                     11    2.6017582E-13
+                     12    2.4586771E-13
+                     13    2.6969082E-13
+                     14    2.1109108E-13
+                     15    1.9644415E-13
+                     16    1.4025915E-13
+                     17    1.6877612E-13
+                     18    1.4245102E-13
+                     19    1.2326029E-13
+                     20    9.7105347E-14
+       P-solution converged in    20 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.6360991E-03
+                      1    1.3236983E-04
+                      2    3.4035671E-05
+                      3    6.5959947E-06
+                      4    1.0597077E-06
+                      5    2.1166432E-07
+                      6    4.2929761E-08
+                      7    8.0400959E-09
+                      8    1.5448812E-09
+                      9    2.6809109E-10
+                     10    5.3721319E-11
+                     11    1.0863487E-11
+                     12    1.9034617E-12
+                     13    3.6639493E-13
+                     14    6.7606793E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.8E-14)
+ TIME STEP       21 OF      100;   ELAPSED TIME:  1.3254E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    6.1939549E-12
+                      1    4.1641098E-12
+                      2    2.3427186E-12
+                      3    1.9088343E-12
+                      4    1.1867568E-12
+                      5    1.2386651E-12
+                      6    7.1010895E-13
+                      7    3.6949175E-13
+                      8    3.3233664E-13
+                      9    3.1738112E-13
+                     10    2.5149564E-13
+                     11    2.6366718E-13
+                     12    2.5330503E-13
+                     13    2.6932663E-13
+                     14    2.1107559E-13
+                     15    1.9666469E-13
+                     16    1.4548237E-13
+                     17    1.7252704E-13
+                     18    1.4121717E-13
+                     19    1.1789442E-13
+                     20    9.5011607E-14
+       P-solution converged in    20 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.4996072E-03
+                      1    1.2726882E-04
+                      2    3.2733282E-05
+                      3    6.4333732E-06
+                      4    1.0411987E-06
+                      5    2.0802387E-07
+                      6    4.2706525E-08
+                      7    8.1126229E-09
+                      8    1.5723131E-09
+                      9    2.7307925E-10
+                     10    5.5096950E-11
+                     11    1.1243998E-11
+                     12    1.9808825E-12
+                     13    3.8435259E-13
+                     14    7.2003632E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.2E-14)
+ TIME STEP       22 OF      100;   ELAPSED TIME:  1.3885E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.9212478E-12
+                      1    4.0095581E-12
+                      2    2.3271724E-12
+                      3    1.8330503E-12
+                      4    1.2029407E-12
+                      5    1.2278096E-12
+                      6    7.2459791E-13
+                      7    3.5727285E-13
+                      8    3.2755204E-13
+                      9    3.1143224E-13
+                     10    2.4754623E-13
+                     11    2.5650494E-13
+                     12    2.4310602E-13
+                     13    2.5993357E-13
+                     14    2.0448283E-13
+                     15    1.9055838E-13
+                     16    1.4057542E-13
+                     17    1.6734489E-13
+                     18    1.3845519E-13
+                     19    1.1599516E-13
+                     20    9.2815069E-14
+       P-solution converged in    20 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.3703034E-03
+                      1    1.2266455E-04
+                      2    3.1497440E-05
+                      3    6.2669471E-06
+                      4    1.0235919E-06
+                      5    2.0411160E-07
+                      6    4.2373343E-08
+                      7    8.1600334E-09
+                      8    1.5945442E-09
+                      9    2.7730662E-10
+                     10    5.6219590E-11
+                     11    1.1582688E-11
+                     12    2.0511434E-12
+                     13    4.0104780E-13
+                     14    7.6191849E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.6E-14)
+ TIME STEP       23 OF      100;   ELAPSED TIME:  1.4516E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.6804050E-12
+                      1    3.8203164E-12
+                      2    2.3076290E-12
+                      3    1.7463852E-12
+                      4    1.2105434E-12
+                      5    1.1793826E-12
+                      6    6.7588607E-13
+                      7    3.5083468E-13
+                      8    3.2017820E-13
+                      9    3.0678169E-13
+                     10    2.4029307E-13
+                     11    2.5521576E-13
+                     12    2.3773795E-13
+                     13    2.5559824E-13
+                     14    2.0000121E-13
+                     15    1.8672769E-13
+                     16    1.3735086E-13
+                     17    1.6527457E-13
+                     18    1.3692788E-13
+                     19    1.1146163E-13
+                     20    9.1589682E-14
+       P-solution converged in    20 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.2468207E-03
+                      1    1.1827325E-04
+                      2    3.0297407E-05
+                      3    6.0936485E-06
+                      4    1.0057400E-06
+                      5    1.9993738E-07
+                      6    4.1912077E-08
+                      7    8.1767795E-09
+                      8    1.6101830E-09
+                      9    2.8057421E-10
+                     10    5.7060223E-11
+                     11    1.1865168E-11
+                     12    2.1117350E-12
+                     13    4.1615644E-13
+                     14    8.0062766E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.0E-14)
+ TIME STEP       24 OF      100;   ELAPSED TIME:  1.5148E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.4508279E-12
+                      1    3.6692113E-12
+                      2    2.2981871E-12
+                      3    1.6607349E-12
+                      4    1.2251881E-12
+                      5    1.1376235E-12
+                      6    6.6202716E-13
+                      7    3.4634954E-13
+                      8    3.1006663E-13
+                      9    3.0596642E-13
+                     10    2.3371855E-13
+                     11    2.5427626E-13
+                     12    2.2710829E-13
+                     13    2.5421445E-13
+                     14    1.9036056E-13
+                     15    1.8247882E-13
+                     16    1.3494758E-13
+                     17    1.6213889E-13
+                     18    1.3360226E-13
+                     19    1.0736026E-13
+                     20    9.0839993E-14
+       P-solution converged in    20 solver iterations  (Error ~  9.1E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.1294840E-03
+                      1    1.1416658E-04
+                      2    2.9133674E-05
+                      3    5.9110312E-06
+                      4    9.8763007E-07
+                      5    1.9542230E-07
+                      6    4.1328213E-08
+                      7    8.1628737E-09
+                      8    1.6196977E-09
+                      9    2.8280889E-10
+                     10    5.7589057E-11
+                     11    1.2087630E-11
+                     12    2.1621746E-12
+                     13    4.2925035E-13
+                     14    8.3588826E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.4E-14)
+ TIME STEP       25 OF      100;   ELAPSED TIME:  1.5779E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.2395831E-12
+                      1    3.5114801E-12
+                      2    2.2850427E-12
+                      3    1.5790709E-12
+                      4    1.2476217E-12
+                      5    1.1024229E-12
+                      6    6.5951401E-13
+                      7    3.4413869E-13
+                      8    2.9681594E-13
+                      9    3.0408421E-13
+                     10    2.2727180E-13
+                     11    2.5147335E-13
+                     12    2.2093521E-13
+                     13    2.5037274E-13
+                     14    1.8808708E-13
+                     15    1.7952623E-13
+                     16    1.3253035E-13
+                     17    1.5782051E-13
+                     18    1.3385272E-13
+                     19    1.0355675E-13
+                     20    8.9113861E-14
+       P-solution converged in    20 solver iterations  (Error ~  8.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.0174931E-03
+                      1    1.1027559E-04
+                      2    2.8015973E-05
+                      3    5.7265414E-06
+                      4    9.6932051E-07
+                      5    1.9078172E-07
+                      6    4.0645905E-08
+                      7    8.1224895E-09
+                      8    1.6235963E-09
+                      9    2.8425522E-10
+                     10    5.7873982E-11
+                     11    1.2258893E-11
+                     12    2.2042375E-12
+                     13    4.4060419E-13
+                     14    8.6773894E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.7E-14)
+ TIME STEP       26 OF      100;   ELAPSED TIME:  1.6410E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    5.0418061E-12
+                      1    3.3676108E-12
+                      2    2.2711658E-12
+                      3    1.5000913E-12
+                      4    1.2511679E-12
+                      5    1.0596538E-12
+                      6    6.2410630E-13
+                      7    3.4234953E-13
+                      8    2.8522622E-13
+                      9    3.0154386E-13
+                     10    2.1894505E-13
+                     11    2.5024701E-13
+                     12    2.1342020E-13
+                     13    2.4665973E-13
+                     14    1.8029559E-13
+                     15    1.7355276E-13
+                     16    1.3033364E-13
+                     17    1.5378805E-13
+                     18    1.3090319E-13
+                     19    9.9412723E-14
+       P-solution converged in    19 solver iterations  (Error ~  9.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.9105693E-03
+                      1    1.0659131E-04
+                      2    2.6935377E-05
+                      3    5.5363920E-06
+                      4    9.5058028E-07
+                      5    1.8595321E-07
+                      6    3.9871069E-08
+                      7    8.0553050E-09
+                      8    1.6219067E-09
+                      9    2.8482683E-10
+                     10    5.7897189E-11
+                     11    1.2373918E-11
+                     12    2.2368286E-12
+                     13    4.4993872E-13
+                     14    8.9571106E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.0E-14)
+ TIME STEP       27 OF      100;   ELAPSED TIME:  1.7041E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.8597028E-12
+                      1    3.2179816E-12
+                      2    2.2538235E-12
+                      3    1.4304045E-12
+                      4    1.2564229E-12
+                      5    1.0212291E-12
+                      6    5.9845087E-13
+                      7    3.3873441E-13
+                      8    2.7513821E-13
+                      9    3.0339174E-13
+                     10    2.1851585E-13
+                     11    2.4991958E-13
+                     12    2.1498870E-13
+                     13    2.5180514E-13
+                     14    1.9198823E-13
+                     15    1.7722809E-13
+                     16    1.3385673E-13
+                     17    1.5083803E-13
+                     18    1.3281765E-13
+                     19    9.9011780E-14
+       P-solution converged in    19 solver iterations  (Error ~  9.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.8083580E-03
+                      1    1.0295543E-04
+                      2    2.5875665E-05
+                      3    5.3477863E-06
+                      4    9.3118055E-07
+                      5    1.8101469E-07
+                      6    3.9005825E-08
+                      7    7.9626921E-09
+                      8    1.6145332E-09
+                      9    2.8471578E-10
+                     10    5.7721155E-11
+                     11    1.2444577E-11
+                     12    2.2615543E-12
+                     13    4.5761940E-13
+                     14    9.1986914E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.2E-14)
+ TIME STEP       28 OF      100;   ELAPSED TIME:  1.7672E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.6803093E-12
+                      1    3.1039641E-12
+                      2    2.2332321E-12
+                      3    1.3670501E-12
+                      4    1.2586593E-12
+                      5    1.0014490E-12
+                      6    5.7708390E-13
+                      7    3.3719018E-13
+                      8    2.6398740E-13
+                      9    2.9631149E-13
+                     10    2.1364298E-13
+                     11    2.3867782E-13
+                     12    2.1007760E-13
+                     13    2.3640232E-13
+                     14    1.8524596E-13
+                     15    1.6785655E-13
+                     16    1.3053621E-13
+                     17    1.4486590E-13
+                     18    1.3303184E-13
+                     19    9.4308696E-14
+       P-solution converged in    19 solver iterations  (Error ~  9.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.7107467E-03
+                      1    9.9784856E-05
+                      2    2.4912149E-05
+                      3    5.1563407E-06
+                      4    9.1246004E-07
+                      5    1.7626171E-07
+                      6    3.8147354E-08
+                      7    7.8619078E-09
+                      8    1.6051288E-09
+                      9    2.8411714E-10
+                     10    5.7384551E-11
+                     11    1.2474132E-11
+                     12    2.2817912E-12
+                     13    4.6383501E-13
+                     14    9.4113250E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.4E-14)
+ TIME STEP       29 OF      100;   ELAPSED TIME:  1.8303E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.5218509E-12
+                      1    2.9704172E-12
+                      2    2.2033211E-12
+                      3    1.3094332E-12
+                      4    1.2472700E-12
+                      5    9.7011903E-13
+                      6    5.4066029E-13
+                      7    3.3405566E-13
+                      8    2.5633527E-13
+                      9    2.9262845E-13
+                     10    2.0762381E-13
+                     11    2.3636588E-13
+                     12    2.0421790E-13
+                     13    2.3514594E-13
+                     14    1.8459734E-13
+                     15    1.6268804E-13
+                     16    1.2890159E-13
+                     17    1.4027357E-13
+                     18    1.2939246E-13
+                     19    9.2153680E-14
+       P-solution converged in    19 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.6167953E-03
+                      1    9.6596414E-05
+                      2    2.3954010E-05
+                      3    4.9681060E-06
+                      4    8.9280470E-07
+                      5    1.7134255E-07
+                      6    3.7198528E-08
+                      7    7.7347624E-09
+                      8    1.5896875E-09
+                      9    2.8275422E-10
+                     10    5.6842987E-11
+                     11    1.2452538E-11
+                     12    2.2918061E-12
+                     13    4.6794160E-13
+                     14    9.5761195E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.6E-14)
+ TIME STEP       30 OF      100;   ELAPSED TIME:  1.8935E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.3675342E-12
+                      1    2.8617141E-12
+                      2    2.1717302E-12
+                      3    1.2579321E-12
+                      4    1.2276863E-12
+                      5    9.4081791E-13
+                      6    5.0612174E-13
+                      7    3.2839287E-13
+                      8    2.4813348E-13
+                      9    2.8365975E-13
+                     10    2.0412436E-13
+                     11    2.2846682E-13
+                     12    2.0110796E-13
+                     13    2.2368755E-13
+                     14    1.7794673E-13
+                     15    1.5597718E-13
+                     16    1.2680278E-13
+                     17    1.3617217E-13
+                     18    1.2843689E-13
+                     19    8.8773613E-14
+       P-solution converged in    19 solver iterations  (Error ~  8.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.5269228E-03
+                      1    9.3518093E-05
+                      2    2.3034720E-05
+                      3    4.7802731E-06
+                      4    8.7235901E-07
+                      5    1.6639861E-07
+                      6    3.6199485E-08
+                      7    7.5918880E-09
+                      8    1.5703957E-09
+                      9    2.8075562E-10
+                     10    5.6136287E-11
+                     11    1.2386625E-11
+                     12    2.2950458E-12
+                     13    4.7030517E-13
+                     14    9.7038626E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.7E-14)
+ TIME STEP       31 OF      100;   ELAPSED TIME:  1.9566E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.2234668E-12
+                      1    2.7497476E-12
+                      2    2.1328212E-12
+                      3    1.2130492E-12
+                      4    1.2081991E-12
+                      5    9.2130091E-13
+                      6    4.8248083E-13
+                      7    3.2281961E-13
+                      8    2.4080005E-13
+                      9    2.7728728E-13
+                     10    1.9927163E-13
+                     11    2.2262748E-13
+                     12    1.9649891E-13
+                     13    2.1932328E-13
+                     14    1.7822801E-13
+                     15    1.5076621E-13
+                     16    1.2518932E-13
+                     17    1.3212034E-13
+                     18    1.2471596E-13
+                     19    8.6513459E-14
+       P-solution converged in    19 solver iterations  (Error ~  8.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.4406301E-03
+                      1    9.0550816E-05
+                      2    2.2152820E-05
+                      3    4.5974213E-06
+                      4    8.5184727E-07
+                      5    1.6153979E-07
+                      6    3.5182808E-08
+                      7    7.4373888E-09
+                      8    1.5478712E-09
+                      9    2.7835262E-10
+                     10    5.5333854E-11
+                     11    1.2291139E-11
+                     12    2.2927552E-12
+                     13    4.7135047E-13
+                     14    9.7972399E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.8E-14)
+ TIME STEP       32 OF      100;   ELAPSED TIME:  2.0197E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    4.0865480E-12
+                      1    2.6477604E-12
+                      2    2.0886952E-12
+                      3    1.1710407E-12
+                      4    1.1782521E-12
+                      5    8.8967326E-13
+                      6    4.5037696E-13
+                      7    3.1562789E-13
+                      8    2.3394773E-13
+                      9    2.6809813E-13
+                     10    1.9504079E-13
+                     11    2.1537516E-13
+                     12    1.9252522E-13
+                     13    2.0944523E-13
+                     14    1.7166702E-13
+                     15    1.4471556E-13
+                     16    1.2242302E-13
+                     17    1.2813479E-13
+                     18    1.2222157E-13
+                     19    8.3652157E-14
+       P-solution converged in    19 solver iterations  (Error ~  8.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.3577429E-03
+                      1    8.7668423E-05
+                      2    2.1302140E-05
+                      3    4.4141931E-06
+                      4    8.3043428E-07
+                      5    1.5662723E-07
+                      6    3.4127288E-08
+                      7    7.2690046E-09
+                      8    1.5220223E-09
+                      9    2.7531300E-10
+                     10    5.4389668E-11
+                     11    1.2152631E-11
+                     12    2.2835329E-12
+                     13    4.7057055E-13
+                     14    9.8529543E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.9E-14)
+ TIME STEP       33 OF      100;   ELAPSED TIME:  2.0828E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.9571120E-12
+                      1    2.5488553E-12
+                      2    2.0406471E-12
+                      3    1.1352830E-12
+                      4    1.1503298E-12
+                      5    8.7085140E-13
+                      6    4.3366180E-13
+                      7    3.0835739E-13
+                      8    2.2686821E-13
+                      9    2.6139908E-13
+                     10    1.9056716E-13
+                     11    2.0867161E-13
+                     12    1.8870077E-13
+                     13    2.0386867E-13
+                     14    1.7098967E-13
+                     15    1.4024624E-13
+                     16    1.2011132E-13
+                     17    1.2517140E-13
+                     18    1.1860286E-13
+                     19    8.1551680E-14
+       P-solution converged in    19 solver iterations  (Error ~  8.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.2780611E-03
+                      1    8.4874325E-05
+                      2    2.0488445E-05
+                      3    4.2392093E-06
+                      4    8.0922284E-07
+                      5    1.5188728E-07
+                      6    3.3079606E-08
+                      7    7.0960033E-09
+                      8    1.4940225E-09
+                      9    2.7202389E-10
+                     10    5.3401829E-11
+                     11    1.1996263E-11
+                     12    2.2703813E-12
+                     13    4.6889576E-13
+                     14    9.8803939E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.9E-14)
+ TIME STEP       34 OF      100;   ELAPSED TIME:  2.1459E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.8339253E-12
+                      1    2.4558502E-12
+                      2    1.9877681E-12
+                      3    1.1009313E-12
+                      4    1.1162390E-12
+                      5    8.4088818E-13
+                      6    4.1027792E-13
+                      7    3.0057130E-13
+                      8    2.2000801E-13
+                      9    2.5346489E-13
+                     10    1.8572666E-13
+                     11    2.0175203E-13
+                     12    1.8483620E-13
+                     13    1.9446804E-13
+                     14    1.6517358E-13
+                     15    1.3514042E-13
+                     16    1.1655577E-13
+                     17    1.2156973E-13
+                     18    1.1536571E-13
+                     19    7.8915143E-14
+       P-solution converged in    19 solver iterations  (Error ~  7.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.2014233E-03
+                      1    8.2143418E-05
+                      2    1.9701318E-05
+                      3    4.0640888E-06
+                      4    7.8712119E-07
+                      5    1.4708448E-07
+                      6    3.2001633E-08
+                      7    6.9111106E-09
+                      8    1.4632343E-09
+                      9    2.6814290E-10
+                     10    5.2296525E-11
+                     11    1.1801247E-11
+                     12    2.2506924E-12
+                     13    4.6549892E-13
+                     14    9.8721704E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.9E-14)
+ TIME STEP       35 OF      100;   ELAPSED TIME:  2.2090E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.7168320E-12
+                      1    2.3667685E-12
+                      2    1.9322667E-12
+                      3    1.0716043E-12
+                      4    1.0837926E-12
+                      5    8.2079734E-13
+                      6    4.0000066E-13
+                      7    2.9255393E-13
+                      8    2.1251491E-13
+                      9    2.4772959E-13
+                     10    1.8094815E-13
+                     11    1.9494749E-13
+                     12    1.8141880E-13
+                     13    1.8826618E-13
+                     14    1.6363175E-13
+                     15    1.3148386E-13
+                     16    1.1334360E-13
+                     17    1.1902863E-13
+                     18    1.1189393E-13
+                     19    7.6757391E-14
+       P-solution converged in    19 solver iterations  (Error ~  7.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.1276639E-03
+                      1    7.9487972E-05
+                      2    1.8949803E-05
+                      3    3.8988074E-06
+                      4    7.6542997E-07
+                      5    1.4249653E-07
+                      6    3.0948713E-08
+                      7    6.7266423E-09
+                      8    1.4312282E-09
+                      9    2.6412727E-10
+                     10    5.1187905E-11
+                     11    1.1597837E-11
+                     12    2.2283560E-12
+                     13    4.6152403E-13
+                     14    9.8418911E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.8E-14)
+ TIME STEP       36 OF      100;   ELAPSED TIME:  2.2721E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.6051515E-12
+                      1    2.2818888E-12
+                      2    1.8735443E-12
+                      3    1.0424966E-12
+                      4    1.0482286E-12
+                      5    7.9088215E-13
+                      6    3.8327893E-13
+                      7    2.8459750E-13
+                      8    2.0532774E-13
+                      9    2.4129957E-13
+                     10    1.7544956E-13
+                     11    1.8845827E-13
+                     12    1.7763309E-13
+                     13    1.7924414E-13
+                     14    1.5814552E-13
+                     15    1.2712072E-13
+                     16    1.0922769E-13
+                     17    1.1569815E-13
+                     18    1.0842166E-13
+                     19    7.4162647E-14
+       P-solution converged in    19 solver iterations  (Error ~  7.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.0566401E-03
+                      1    7.6886658E-05
+                      2    1.8222493E-05
+                      3    3.7338677E-06
+                      4    7.4299933E-07
+                      5    1.3786507E-07
+                      6    2.9878540E-08
+                      7    6.5331418E-09
+                      8    1.3971121E-09
+                      9    2.5959912E-10
+                     10    4.9987714E-11
+                     11    1.1361887E-11
+                     12    2.2002036E-12
+                     13    4.5603729E-13
+                     14    9.7797151E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.8E-14)
+ TIME STEP       37 OF      100;   ELAPSED TIME:  2.3353E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.4985211E-12
+                      1    2.2007428E-12
+                      2    1.8133909E-12
+                      3    1.0175710E-12
+                      4    1.0143643E-12
+                      5    7.6930155E-13
+                      6    3.7749533E-13
+                      7    2.7656894E-13
+                      8    1.9748815E-13
+                      9    2.3651515E-13
+                     10    1.7043514E-13
+                     11    1.8181645E-13
+                     12    1.7440535E-13
+                     13    1.7293672E-13
+                     14    1.5608049E-13
+                     15    1.2394456E-13
+                     16    1.0563381E-13
+                     17    1.1311878E-13
+                     18    1.0518589E-13
+                     19    7.1970292E-14
+       P-solution converged in    19 solver iterations  (Error ~  7.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9882199E-03
+                      1    7.4355147E-05
+                      2    1.7528343E-05
+                      3    3.5793004E-06
+                      4    7.2115769E-07
+                      5    1.3346215E-07
+                      6    2.8844258E-08
+                      7    6.3434795E-09
+                      8    1.3624714E-09
+                      9    2.5500725E-10
+                     10    4.8808874E-11
+                     11    1.1124294E-11
+                     12    2.1703610E-12
+                     13    4.5020741E-13
+                     14    9.7008854E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.7E-14)
+ TIME STEP       38 OF      100;   ELAPSED TIME:  2.3984E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.3966620E-12
+                      1    2.1232175E-12
+                      2    1.7516709E-12
+                      3    9.9194594E-13
+                      4    9.7923918E-13
+                      5    7.3927466E-13
+                      6    3.6504283E-13
+                      7    2.6866799E-13
+                      8    1.9026389E-13
+                      9    2.3085191E-13
+                     10    1.6461447E-13
+                     11    1.7574995E-13
+                     12    1.7042049E-13
+                     13    1.6455847E-13
+                     14    1.5067944E-13
+                     15    1.1985707E-13
+                     16    1.0148431E-13
+                     17    1.0982119E-13
+                     18    1.0165948E-13
+                     19    6.9478546E-14
+       P-solution converged in    19 solver iterations  (Error ~  6.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9222769E-03
+                      1    7.1874835E-05
+                      2    1.6856345E-05
+                      3    3.4254847E-06
+                      4    6.9872028E-07
+                      5    1.2901999E-07
+                      6    2.7797560E-08
+                      7    6.1464508E-09
+                      8    1.3262223E-09
+                      9    2.4997562E-10
+                     10    4.7559056E-11
+                     11    1.0859998E-11
+                     12    2.1354352E-12
+                     13    4.4308594E-13
+                     14    9.5943153E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.6E-14)
+ TIME STEP       39 OF      100;   ELAPSED TIME:  2.4615E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.2990744E-12
+                      1    2.0489340E-12
+                      2    1.6896615E-12
+                      3    9.6982178E-13
+                      4    9.4572839E-13
+                      5    7.1623358E-13
+                      6    3.6134834E-13
+                      7    2.6092344E-13
+                      8    1.8252685E-13
+                      9    2.2626986E-13
+                     10    1.5967714E-13
+                     11    1.6930108E-13
+                     12    1.6707391E-13
+                     13    1.5859003E-13
+                     14    1.4815583E-13
+                     15    1.1679726E-13
+                     16    9.7979939E-14
+       P-solution converged in    16 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.8586989E-03
+                      1    6.9463121E-05
+                      2    1.6214809E-05
+                      3    3.2820923E-06
+                      4    6.7702650E-07
+                      5    1.2481048E-07
+                      6    2.6794444E-08
+                      7    5.9559322E-09
+                      8    1.2900857E-09
+                      9    2.4495168E-10
+                     10    4.6349544E-11
+                     11    1.0599643E-11
+                     12    2.0996667E-12
+                     13    4.3581524E-13
+                     14    9.4761142E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.5E-14)
+ TIME STEP       40 OF      100;   ELAPSED TIME:  2.5246E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.2135304E-12
+                      1    1.9711339E-12
+                      2    1.6227166E-12
+                      3    9.5105026E-13
+                      4    9.1180296E-13
+                      5    6.9404661E-13
+                      6    3.5933642E-13
+                      7    2.5275629E-13
+                      8    1.8558784E-13
+                      9    2.5564905E-13
+                     10    1.8347177E-13
+                     11    1.9465929E-13
+                     12    1.9887022E-13
+                     13    1.8231160E-13
+                     14    1.7513932E-13
+                     15    1.3468347E-13
+                     16    1.0798258E-13
+                     17    1.1488220E-13
+                     18    1.0298648E-13
+                     19    6.7507516E-14
+       P-solution converged in    19 solver iterations  (Error ~  6.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7984316E-03
+                      1    6.8034982E-05
+                      2    1.5757963E-05
+                      3    3.1761756E-06
+                      4    6.6241209E-07
+                      5    1.2184039E-07
+                      6    2.6057581E-08
+                      7    5.8226753E-09
+                      8    1.2670867E-09
+                      9    2.4223156E-10
+                     10    4.5616312E-11
+                     11    1.0439640E-11
+                     12    2.0834877E-12
+                     13    4.3273386E-13
+                     14    9.4496591E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.4E-14)
+ TIME STEP       41 OF      100;   ELAPSED TIME:  2.5877E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.1167357E-12
+                      1    1.9334915E-12
+                      2    1.5803501E-12
+                      3    9.2216700E-13
+                      4    8.7824426E-13
+                      5    6.4761439E-13
+                      6    3.3285958E-13
+                      7    2.4462899E-13
+                      8    1.6654662E-13
+                      9    2.0277151E-13
+                     10    1.3818154E-13
+                     11    1.4767612E-13
+                     12    1.4433568E-13
+                     13    1.3727498E-13
+                     14    1.2778627E-13
+                     15    1.0138176E-13
+                     16    8.4538273E-14
+       P-solution converged in    16 solver iterations  (Error ~  8.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7376284E-03
+                      1    6.4224463E-05
+                      2    1.4892396E-05
+                      3    2.9829467E-06
+                      4    6.2878493E-07
+                      5    1.1575469E-07
+                      6    2.4642603E-08
+                      7    5.5298967E-09
+                      8    1.2071684E-09
+                      9    2.3259350E-10
+                     10    4.3534919E-11
+                     11    9.9650545E-12
+                     12    2.0045438E-12
+                     13    4.1570258E-13
+                     14    9.1134522E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.1E-14)
+ TIME STEP       42 OF      100;   ELAPSED TIME:  2.6508E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    3.0380509E-12
+                      1    1.8118253E-12
+                      2    1.4818522E-12
+                      3    9.0649975E-13
+                      4    8.4303417E-13
+                      5    6.2137096E-13
+                      6    3.3545693E-13
+                      7    2.3623896E-13
+                      8    1.7367729E-13
+                      9    2.4488500E-13
+                     10    1.7041649E-13
+                     11    1.8175955E-13
+                     12    1.8646686E-13
+                     13    1.6614754E-13
+                     14    1.6247484E-13
+                     15    1.2516349E-13
+                     16    9.9701167E-14
+       P-solution converged in    16 solver iterations  (Error ~  1.0E-13)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6816406E-03
+                      1    6.3256384E-05
+                      2    1.4544342E-05
+                      3    2.9014646E-06
+                      4    6.1762456E-07
+                      5    1.1346383E-07
+                      6    2.4064764E-08
+                      7    5.4260843E-09
+                      8    1.1892411E-09
+                      9    2.3060991E-10
+                     10    4.3014266E-11
+                     11    9.8453489E-12
+                     12    1.9936251E-12
+                     13    4.1389067E-13
+                     14    9.1066794E-14
+       U-solution converged in    14 solver iterations  (Error ~  9.1E-14)
+ TIME STEP       43 OF      100;   ELAPSED TIME:  2.7140E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.9497695E-12
+                      1    1.7972831E-12
+                      2    1.4563830E-12
+                      3    8.9036775E-13
+                      4    8.2765117E-13
+                      5    6.3990135E-13
+                      6    3.4504812E-13
+                      7    2.2895021E-13
+                      8    1.5736010E-13
+                      9    2.1848056E-13
+                     10    1.5622546E-13
+                     11    1.6310375E-13
+                     12    1.7556856E-13
+                     13    1.5462983E-13
+                     14    1.5621021E-13
+                     15    1.2001876E-13
+                     16    9.3647716E-14
+       P-solution converged in    16 solver iterations  (Error ~  9.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6273937E-03
+                      1    6.0894364E-05
+                      2    1.3961743E-05
+                      3    2.7694788E-06
+                      4    5.9502526E-07
+                      5    1.0940248E-07
+                      6    2.3107289E-08
+                      7    5.2313190E-09
+                      8    1.1499175E-09
+                      9    2.2454978E-10
+                     10    4.1696684E-11
+                     11    9.5376284E-12
+                     12    1.9456159E-12
+                     13    4.0360318E-13
+                     14    8.9088543E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.9E-14)
+ TIME STEP       44 OF      100;   ELAPSED TIME:  2.7771E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.8711716E-12
+                      1    1.7138872E-12
+                      2    1.3814031E-12
+                      3    8.6321669E-13
+                      4    7.8518925E-13
+                      5    5.8430937E-13
+                      6    3.2774054E-13
+                      7    2.2000629E-13
+                      8    1.5282650E-13
+                      9    2.1352255E-13
+                     10    1.4833292E-13
+                     11    1.5413010E-13
+                     12    1.6268532E-13
+                     13    1.4288054E-13
+                     14    1.4154638E-13
+                     15    1.1142782E-13
+                     16    8.8085903E-14
+       P-solution converged in    16 solver iterations  (Error ~  8.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5732913E-03
+                      1    5.8534935E-05
+                      2    1.3385553E-05
+                      3    2.6436440E-06
+                      4    5.7310876E-07
+                      5    1.0536567E-07
+                      6    2.2131198E-08
+                      7    5.0313745E-09
+                      8    1.1093859E-09
+                      9    2.1824653E-10
+                     10    4.0376462E-11
+                     11    9.2239660E-12
+                     12    1.8944247E-12
+                     13    3.9303006E-13
+                     14    8.7003605E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.7E-14)
+ TIME STEP       45 OF      100;   ELAPSED TIME:  2.8402E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.7945022E-12
+                      1    1.6637841E-12
+                      2    1.3328087E-12
+                      3    8.4986281E-13
+                      4    7.6747380E-13
+                      5    5.8434218E-13
+                      6    3.3318850E-13
+                      7    2.1745535E-13
+                      8    1.4680290E-13
+                      9    2.0907627E-13
+                     10    1.4681938E-13
+                     11    1.5178317E-13
+                     12    1.6557014E-13
+                     13    1.4103916E-13
+                     14    1.4378364E-13
+                     15    1.1111114E-13
+                     16    8.6454279E-14
+       P-solution converged in    16 solver iterations  (Error ~  8.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5216106E-03
+                      1    5.6428530E-05
+                      2    1.2859560E-05
+                      3    2.5259589E-06
+                      4    5.5220348E-07
+                      5    1.0155943E-07
+                      6    2.1236772E-08
+                      7    4.8453310E-09
+                      8    1.0718767E-09
+                      9    2.1222084E-10
+                     10    3.9131566E-11
+                     11    8.9255977E-12
+                     12    1.8455137E-12
+                     13    3.8249226E-13
+                     14    8.4927737E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.5E-14)
+ TIME STEP       46 OF      100;   ELAPSED TIME:  2.9033E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.7186300E-12
+                      1    1.6061032E-12
+                      2    1.2769184E-12
+                      3    8.2506826E-13
+                      4    7.3137995E-13
+                      5    5.3879719E-13
+                      6    3.1433264E-13
+                      7    2.0681802E-13
+                      8    1.4245665E-13
+                      9    2.0294480E-13
+                     10    1.4038074E-13
+                     11    1.4638938E-13
+                     12    1.5517116E-13
+                     13    1.3521565E-13
+                     14    1.3330462E-13
+                     15    1.0507413E-13
+                     16    8.2892448E-14
+       P-solution converged in    16 solver iterations  (Error ~  8.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4720223E-03
+                      1    5.4470284E-05
+                      2    1.2376182E-05
+                      3    2.4201132E-06
+                      4    5.3325052E-07
+                      5    9.8122190E-08
+                      6    2.0416939E-08
+                      7    4.6752785E-09
+                      8    1.0368501E-09
+                      9    2.0666697E-10
+                     10    3.8003199E-11
+                     11    8.6524340E-12
+                     12    1.8000913E-12
+                     13    3.7311472E-13
+                     14    8.3041541E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.3E-14)
+ TIME STEP       47 OF      100;   ELAPSED TIME:  2.9664E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.6473183E-12
+                      1    1.5508652E-12
+                      2    1.2237084E-12
+                      3    8.0914788E-13
+                      4    7.0964865E-13
+                      5    5.3390646E-13
+                      6    3.1782209E-13
+                      7    2.0413480E-13
+                      8    1.3404709E-13
+                      9    1.9387569E-13
+                     10    1.3645428E-13
+                     11    1.3840259E-13
+                     12    1.5392826E-13
+                     13    1.2944065E-13
+                     14    1.3246787E-13
+                     15    1.0318551E-13
+                     16    7.9389357E-14
+       P-solution converged in    16 solver iterations  (Error ~  7.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4239489E-03
+                      1    5.2551909E-05
+                      2    1.1897907E-05
+                      3    2.3135717E-06
+                      4    5.1371044E-07
+                      5    9.4593339E-08
+                      6    1.9591581E-08
+                      7    4.5004645E-09
+                      8    1.0012055E-09
+                      9    2.0077415E-10
+                     10    3.6823641E-11
+                     11    8.3642561E-12
+                     12    1.7511066E-12
+                     13    3.6259992E-13
+                     14    8.0918385E-14
+       U-solution converged in    14 solver iterations  (Error ~  8.1E-14)
+ TIME STEP       48 OF      100;   ELAPSED TIME:  3.0295E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.5789744E-12
+                      1    1.4987353E-12
+                      2    1.1729165E-12
+                      3    7.8557338E-13
+                      4    6.7810471E-13
+                      5    4.8943308E-13
+                      6    2.9729579E-13
+                      7    1.9258978E-13
+                      8    1.3252712E-13
+                      9    1.9050565E-13
+                     10    1.3104901E-13
+                     11    1.3625293E-13
+                     12    1.4523454E-13
+                     13    1.2495126E-13
+                     14    1.2399334E-13
+                     15    9.8201694E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3774858E-03
+                      1    5.0700662E-05
+                      2    1.1447410E-05
+                      3    2.2167818E-06
+                      4    4.9562776E-07
+                      5    9.1338093E-08
+                      6    1.8821739E-08
+                      7    4.3379774E-09
+                      8    9.6699999E-10
+                      9    1.9518252E-10
+                     10    3.5726927E-11
+                     11    8.0957584E-12
+                     12    1.7045147E-12
+                     13    3.5302344E-13
+                     14    7.8919996E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.9E-14)
+ TIME STEP       49 OF      100;   ELAPSED TIME:  3.0926E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.5171848E-12
+                      1    1.4548689E-12
+                      2    1.1277924E-12
+                      3    7.8024051E-13
+                      4    6.6491514E-13
+                      5    4.9827086E-13
+                      6    3.0806744E-13
+                      7    1.9338971E-13
+                      8    1.2972031E-13
+                      9    1.9214267E-13
+                     10    1.3753384E-13
+                     11    1.3809232E-13
+                     12    1.5175133E-13
+                     13    1.2810305E-13
+                     14    1.2781077E-13
+                     15    1.0327577E-13
+                     16    7.7665346E-14
+       P-solution converged in    16 solver iterations  (Error ~  7.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3326813E-03
+                      1    4.8845783E-05
+                      2    1.1008493E-05
+                      3    2.1171003E-06
+                      4    4.7656404E-07
+                      5    8.8027347E-08
+                      6    1.8056181E-08
+                      7    4.1732841E-09
+                      8    9.3264231E-10
+                      9    1.8937791E-10
+                     10    3.4586063E-11
+                     11    7.8156506E-12
+                     12    1.6554162E-12
+                     13    3.4257096E-13
+                     14    7.6762549E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.7E-14)
+ TIME STEP       50 OF      100;   ELAPSED TIME:  3.1558E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.4499360E-12
+                      1    1.4020639E-12
+                      2    1.0794118E-12
+                      3    7.5153363E-13
+                      4    6.3480001E-13
+                      5    4.6915889E-13
+                      6    2.9299699E-13
+                      7    1.8435591E-13
+                      8    1.1786573E-13
+                      9    1.7154424E-13
+                     10    1.2320418E-13
+                     11    1.1860167E-13
+                     12    1.3706475E-13
+                     13    1.1331690E-13
+                     14    1.1640461E-13
+                     15    9.2624019E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2893465E-03
+                      1    4.7344978E-05
+                      2    1.0606545E-05
+                      3    2.0376710E-06
+                      4    4.6166732E-07
+                      5    8.5144158E-08
+                      6    1.7374343E-08
+                      7    4.0260748E-09
+                      8    9.0214234E-10
+                      9    1.8419674E-10
+                     10    3.3623345E-11
+                     11    7.5753531E-12
+                     12    1.6119039E-12
+                     13    3.3355623E-13
+                     14    7.4856924E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.5E-14)
+ TIME STEP       51 OF      100;   ELAPSED TIME:  3.2189E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.3931975E-12
+                      1    1.3565252E-12
+                      2    1.0333158E-12
+                      3    7.3919662E-13
+                      4    6.1924669E-13
+                      5    4.5785007E-13
+                      6    2.9238439E-13
+                      7    1.8225748E-13
+                      8    1.1985490E-13
+                      9    1.7964847E-13
+                     10    1.2525643E-13
+                     11    1.3058880E-13
+                     12    1.4195673E-13
+                     13    1.1737677E-13
+                     14    1.1629053E-13
+                     15    9.4605885E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2472924E-03
+                      1    4.5484967E-05
+                      2    1.0180581E-05
+                      3    1.9401418E-06
+                      4    4.4237628E-07
+                      5    8.1842383E-08
+                      6    1.6625773E-08
+                      7    3.8624676E-09
+                      8    8.6758386E-10
+                      9    1.7817850E-10
+                     10    3.2464879E-11
+                     11    7.2894525E-12
+                     12    1.5600118E-12
+                     13    3.2241259E-13
+                     14    7.2512226E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.3E-14)
+ TIME STEP       52 OF      100;   ELAPSED TIME:  3.2820E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.3213295E-12
+                      1    1.3111479E-12
+                      2    9.9327521E-13
+                      3    7.1032945E-13
+                      4    5.9217298E-13
+                      5    4.2732554E-13
+                      6    2.7813019E-13
+                      7    1.7442914E-13
+                      8    1.1390558E-13
+                      9    1.6920717E-13
+                     10    1.2015467E-13
+                     11    1.2328117E-13
+                     12    1.3621578E-13
+                     13    1.1482829E-13
+                     14    1.1426508E-13
+                     15    9.3561756E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2072944E-03
+                      1    4.4029308E-05
+                      2    9.8161078E-06
+                      3    1.8609611E-06
+                      4    4.2693384E-07
+                      5    7.9035318E-08
+                      6    1.5980031E-08
+                      7    3.7206840E-09
+                      8    8.3774064E-10
+                      9    1.7299042E-10
+                     10    3.1495801E-11
+                     11    7.0479802E-12
+                     12    1.5151395E-12
+                     13    3.1311261E-13
+                     14    7.0527242E-14
+       U-solution converged in    14 solver iterations  (Error ~  7.1E-14)
+ TIME STEP       53 OF      100;   ELAPSED TIME:  3.3451E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.2693507E-12
+                      1    1.2670158E-12
+                      2    9.5119471E-13
+                      3    7.0097638E-13
+                      4    5.7612497E-13
+                      5    4.2285982E-13
+                      6    2.7283096E-13
+                      7    1.6993050E-13
+                      8    1.0918886E-13
+                      9    1.6181110E-13
+                     10    1.1766856E-13
+                     11    1.1411362E-13
+                     12    1.3141937E-13
+                     13    1.0802787E-13
+                     14    1.0827518E-13
+                     15    8.9478083E-14
+       P-solution converged in    15 solver iterations  (Error ~  8.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1678689E-03
+                      1    4.2514338E-05
+                      2    9.4419144E-06
+                      3    1.7870154E-06
+                      4    4.1189902E-07
+                      5    7.6297457E-08
+                      6    1.5352999E-08
+                      7    3.5821771E-09
+                      8    8.0800068E-10
+                      9    1.6769590E-10
+                     10    3.0523589E-11
+                     11    6.8096656E-12
+                     12    1.4703209E-12
+                     13    3.0367238E-13
+                     14    6.8478597E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.8E-14)
+ TIME STEP       54 OF      100;   ELAPSED TIME:  3.4082E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.2129057E-12
+                      1    1.2245544E-12
+                      2    9.1233679E-13
+                      3    6.8139566E-13
+                      4    5.5473653E-13
+                      5    3.9884707E-13
+                      6    2.6298890E-13
+                      7    1.6519741E-13
+                      8    1.0678143E-13
+                      9    1.5603596E-13
+                     10    1.1655457E-13
+                     11    1.1018510E-13
+                     12    1.2656547E-13
+                     13    1.0578417E-13
+                     14    1.0569871E-13
+                     15    8.7616243E-14
+       P-solution converged in    15 solver iterations  (Error ~  8.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1299313E-03
+                      1    4.1019538E-05
+                      2    9.0840335E-06
+                      3    1.7145187E-06
+                      4    3.9726471E-07
+                      5    7.3629235E-08
+                      6    1.4743596E-08
+                      7    3.4479569E-09
+                      8    7.7886992E-10
+                      9    1.6251500E-10
+                     10    2.9590299E-11
+                     11    6.5768027E-12
+                     12    1.4256613E-12
+                     13    2.9442463E-13
+                     14    6.6465678E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.6E-14)
+ TIME STEP       55 OF      100;   ELAPSED TIME:  3.4713E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.1571254E-12
+                      1    1.1831565E-12
+                      2    8.7433613E-13
+                      3    6.6120884E-13
+                      4    5.3371930E-13
+                      5    3.8505772E-13
+                      6    2.5505314E-13
+                      7    1.5991305E-13
+                      8    1.0163219E-13
+                      9    1.5169599E-13
+                     10    1.1073557E-13
+                     11    1.0781031E-13
+                     12    1.2433239E-13
+                     13    1.0212934E-13
+                     14    1.0140847E-13
+                     15    8.4748113E-14
+       P-solution converged in    15 solver iterations  (Error ~  8.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0933735E-03
+                      1    3.9629597E-05
+                      2    8.7450158E-06
+                      3    1.6390735E-06
+                      4    3.8185755E-07
+                      5    7.0927824E-08
+                      6    1.4142723E-08
+                      7    3.3121513E-09
+                      8    7.5012332E-10
+                      9    1.5727440E-10
+                     10    2.8619133E-11
+                     11    6.3365885E-12
+                     12    1.3797102E-12
+                     13    2.8475408E-13
+                     14    6.4368299E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.4E-14)
+ TIME STEP       56 OF      100;   ELAPSED TIME:  3.5345E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.1053466E-12
+                      1    1.1430397E-12
+                      2    8.3780877E-13
+                      3    6.3883039E-13
+                      4    5.1250198E-13
+                      5    3.6224050E-13
+                      6    2.4516454E-13
+                      7    1.5409589E-13
+                      8    9.8282150E-14
+       P-solution converged in     8 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0578921E-03
+                      1    3.8284197E-05
+                      2    8.4228979E-06
+                      3    1.5736597E-06
+                      4    3.6831161E-07
+                      5    6.8485227E-08
+                      6    1.3592191E-08
+                      7    3.1887785E-09
+                      8    7.2319117E-10
+                      9    1.5238607E-10
+                     10    2.7748615E-11
+                     11    6.1205565E-12
+                     12    1.3373098E-12
+                     13    2.7596769E-13
+                     14    6.2441401E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.2E-14)
+ TIME STEP       57 OF      100;   ELAPSED TIME:  3.5976E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    2.0626347E-12
+                      1    1.0993246E-12
+                      2    8.0501997E-13
+                      3    6.2465159E-13
+                      4    5.4219244E-13
+                      5    4.0786525E-13
+                      6    2.8794431E-13
+                      7    2.0589248E-13
+                      8    1.6621533E-13
+                      9    2.7008784E-13
+                     10    1.8761415E-13
+                     11    1.8100456E-13
+                     12    1.7817074E-13
+                     13    1.3291577E-13
+                     14    1.3733976E-13
+                     15    1.0996928E-13
+                     16    9.3046843E-14
+       P-solution converged in    16 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0207577E-03
+                      1    3.6663060E-05
+                      2    8.0201392E-06
+                      3    1.4928324E-06
+                      4    3.5146850E-07
+                      5    6.5341873E-08
+                      6    1.2926164E-08
+                      7    3.0363807E-09
+                      8    6.9017207E-10
+                      9    1.4604739E-10
+                     10    2.6603496E-11
+                     11    5.8437919E-12
+                     12    1.2814316E-12
+                     13    2.6450411E-13
+                     14    5.9875108E-14
+       U-solution converged in    14 solver iterations  (Error ~  6.0E-14)
+ TIME STEP       58 OF      100;   ELAPSED TIME:  3.6607E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9992855E-12
+                      1    1.0739163E-12
+                      2    7.8262288E-13
+                      3    6.1561686E-13
+                      4    4.7427223E-13
+                      5    3.3385760E-13
+                      6    2.2050928E-13
+                      7    1.3343196E-13
+                      8    7.1809985E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    9.9221500E-04
+                      1    3.6141616E-05
+                      2    7.9030058E-06
+                      3    1.4694970E-06
+                      4    3.4619781E-07
+                      5    6.4578107E-08
+                      6    1.2693240E-08
+                      7    2.9861002E-09
+                      8    6.7913164E-10
+                      9    1.4444562E-10
+                     10    2.6344042E-11
+                     11    5.7706670E-12
+                     12    1.2689033E-12
+                     13    2.6166874E-13
+                     14    5.9269538E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.9E-14)
+ TIME STEP       59 OF      100;   ELAPSED TIME:  3.7238E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9719986E-12
+                      1    1.0165759E-12
+                      2    7.3253590E-13
+                      3    5.8229427E-13
+                      4    4.8433392E-13
+                      5    3.3615798E-13
+                      6    2.4787761E-13
+                      7    1.7332829E-13
+                      8    1.3528440E-13
+                      9    2.1577974E-13
+                     10    1.4405400E-13
+                     11    1.5672279E-13
+                     12    1.5110451E-13
+                     13    1.1496161E-13
+                     14    1.1422374E-13
+                     15    9.2810283E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    9.5601661E-04
+                      1    3.4122677E-05
+                      2    7.4351441E-06
+                      3    1.3690662E-06
+                      4    3.2491277E-07
+                      5    6.0687982E-08
+                      6    1.1903148E-08
+                      7    2.8030986E-09
+                      8    6.3915569E-10
+                      9    1.3648379E-10
+                     10    2.4883401E-11
+                     11    5.4250055E-12
+                     12    1.1976378E-12
+                     13    2.4675284E-13
+                     14    5.5968923E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.6E-14)
+ TIME STEP       60 OF      100;   ELAPSED TIME:  3.7869E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.9060486E-12
+                      1    1.0096232E-12
+                      2    7.2302523E-13
+                      3    5.8372882E-13
+                      4    4.5055545E-13
+                      5    3.1349567E-13
+                      6    2.0745895E-13
+                      7    1.2772547E-13
+                      8    7.4540777E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    9.2879271E-04
+                      1    3.3587519E-05
+                      2    7.3072691E-06
+                      3    1.3425450E-06
+                      4    3.1897673E-07
+                      5    5.9690991E-08
+                      6    1.1648083E-08
+                      7    2.7454135E-09
+                      8    6.2706954E-10
+                      9    1.3447063E-10
+                     10    2.4541035E-11
+                     11    5.3364225E-12
+                     12    1.1807489E-12
+                     13    2.4311487E-13
+                     14    5.5147361E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.5E-14)
+ TIME STEP       61 OF      100;   ELAPSED TIME:  3.8500E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.8792972E-12
+                      1    9.5390774E-13
+                      2    6.7971909E-13
+                      3    5.5430029E-13
+                      4    4.6092642E-13
+                      5    3.3793860E-13
+                      6    2.4470889E-13
+                      7    1.7146090E-13
+                      8    1.3068098E-13
+                      9    2.1088545E-13
+                     10    1.5510814E-13
+                     11    1.4563156E-13
+                     12    1.5156804E-13
+                     13    1.1133500E-13
+                     14    1.1344752E-13
+                     15    9.2609556E-14
+       P-solution converged in    15 solver iterations  (Error ~  9.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    8.9483305E-04
+                      1    3.1906277E-05
+                      2    6.9038331E-06
+                      3    1.2679231E-06
+                      4    3.0302327E-07
+                      5    5.6658914E-08
+                      6    1.1013859E-08
+                      7    2.5984345E-09
+                      8    5.9422187E-10
+                      9    1.2793187E-10
+                     10    2.3392215E-11
+                     11    5.0616340E-12
+                     12    1.1225108E-12
+                     13    2.3115584E-13
+                     14    5.2524758E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.3E-14)
+ TIME STEP       62 OF      100;   ELAPSED TIME:  3.9131E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.8184237E-12
+                      1    9.4293685E-13
+                      2    6.6513747E-13
+                      3    5.4641695E-13
+                      4    4.1813333E-13
+                      5    2.8803410E-13
+                      6    1.9193961E-13
+                      7    1.1883892E-13
+                      8    6.7135388E-14
+       P-solution converged in     8 solver iterations  (Error ~  6.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    8.6976839E-04
+                      1    3.1379735E-05
+                      2    6.7896757E-06
+                      3    1.2406246E-06
+                      4    2.9685566E-07
+                      5    5.5718495E-08
+                      6    1.0783562E-08
+                      7    2.5468448E-09
+                      8    5.8289600E-10
+                      9    1.2604247E-10
+                     10    2.3062777E-11
+                     11    4.9761498E-12
+                     12    1.1062299E-12
+                     13    2.2788147E-13
+                     14    5.1735606E-14
+       U-solution converged in    14 solver iterations  (Error ~  5.2E-14)
+ TIME STEP       63 OF      100;   ELAPSED TIME:  3.9763E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7916660E-12
+                      1    8.9031092E-13
+                      2    6.2588562E-13
+                      3    5.1802444E-13
+                      4    4.2617370E-13
+                      5    3.1177850E-13
+                      6    2.2689551E-13
+                      7    1.5874282E-13
+                      8    1.1891282E-13
+                      9    1.9383900E-13
+                     10    1.4302954E-13
+                     11    1.3221259E-13
+                     12    1.4158172E-13
+                     13    1.0302566E-13
+                     14    1.0434764E-13
+                     15    8.5367751E-14
+       P-solution converged in    15 solver iterations  (Error ~  8.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    8.3781673E-04
+                      1    2.9777518E-05
+                      2    6.4065309E-06
+                      3    1.1666163E-06
+                      4    2.8051688E-07
+                      5    5.2613463E-08
+                      6    1.0155698E-08
+                      7    2.3987081E-09
+                      8    5.4995775E-10
+                      9    1.1933969E-10
+                     10    2.1872262E-11
+                     11    4.7004227E-12
+                     12    1.0477847E-12
+                     13    2.1551127E-13
+                     14    4.8937200E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.9E-14)
+ TIME STEP       64 OF      100;   ELAPSED TIME:  4.0394E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7349720E-12
+                      1    8.7857142E-13
+                      2    6.1109429E-13
+                      3    5.0637870E-13
+                      4    3.8469159E-13
+                      5    2.5986179E-13
+                      6    1.7718410E-13
+                      7    1.1051746E-13
+                      8    6.2616627E-14
+       P-solution converged in     8 solver iterations  (Error ~  6.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    8.1420868E-04
+                      1    2.9269985E-05
+                      2    6.2976315E-06
+                      3    1.1432283E-06
+                      4    2.7511230E-07
+                      5    5.1775792E-08
+                      6    9.9488240E-09
+                      7    2.3521103E-09
+                      8    5.3965070E-10
+                      9    1.1757351E-10
+                     10    2.1570417E-11
+                     11    4.6227851E-12
+                     12    1.0324501E-12
+                     13    2.1234194E-13
+                     14    4.8203742E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.8E-14)
+ TIME STEP       65 OF      100;   ELAPSED TIME:  4.1025E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.7082607E-12
+                      1    8.3111372E-13
+                      2    5.7679044E-13
+                      3    4.8285508E-13
+                      4    3.9422964E-13
+                      5    2.8559078E-13
+                      6    2.1034457E-13
+                      7    1.4850576E-13
+                      8    1.0943098E-13
+                      9    1.7710580E-13
+                     10    1.3411936E-13
+                     11    1.2166467E-13
+                     12    1.2881227E-13
+                     13    9.4659406E-14
+       P-solution converged in    13 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    7.8433996E-04
+                      1    2.7789547E-05
+                      2    5.9500979E-06
+                      3    1.0774740E-06
+                      4    2.6073902E-07
+                      5    4.9038538E-08
+                      6    9.3914551E-09
+                      7    2.2208207E-09
+                      8    5.1037868E-10
+                      9    1.1156984E-10
+                     10    2.0513645E-11
+                     11    4.3754106E-12
+                     12    9.7855878E-13
+                     13    2.0120876E-13
+                     14    4.5766594E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.6E-14)
+ TIME STEP       66 OF      100;   ELAPSED TIME:  4.1656E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6563114E-12
+                      1    8.1186732E-13
+                      2    5.6412157E-13
+                      3    4.7010251E-13
+                      4    3.5226898E-13
+                      5    2.4338546E-13
+                      6    1.5797620E-13
+                      7    1.1525703E-13
+                      8    7.2912229E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    7.6194247E-04
+                      1    2.7238495E-05
+                      2    5.8163164E-06
+                      3    1.0489278E-06
+                      4    2.5436078E-07
+                      5    4.7938566E-08
+                      6    9.1498838E-09
+                      7    2.1648856E-09
+                      8    4.9794704E-10
+                      9    1.0928451E-10
+                     10    2.0116337E-11
+                     11    4.2766420E-12
+                     12    9.5845689E-13
+                     13    1.9704506E-13
+                     14    4.4794323E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.5E-14)
+ TIME STEP       67 OF      100;   ELAPSED TIME:  4.2287E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.6267626E-12
+                      1    7.8122535E-13
+                      2    5.3628882E-13
+                      3    4.4973260E-13
+                      4    3.7308985E-13
+                      5    2.7412119E-13
+                      6    2.0659946E-13
+                      7    1.4493567E-13
+                      8    1.1057632E-13
+                      9    1.8943002E-13
+                     10    1.4553045E-13
+                     11    1.2902860E-13
+                     12    1.3422201E-13
+                     13    9.9067157E-14
+       P-solution converged in    13 solver iterations  (Error ~  9.9E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    7.3471901E-04
+                      1    2.5973657E-05
+                      2    5.5405569E-06
+                      3    9.9558996E-07
+                      4    2.4195474E-07
+                      5    4.5718543E-08
+                      6    8.7041905E-09
+                      7    2.0592036E-09
+                      8    4.7428845E-10
+                      9    1.0433434E-10
+                     10    1.9227597E-11
+                     11    4.0781761E-12
+                     12    9.1576456E-13
+                     13    1.8815621E-13
+                     14    4.2727151E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.3E-14)
+ TIME STEP       68 OF      100;   ELAPSED TIME:  4.2918E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5889741E-12
+                      1    7.6187852E-13
+                      2    5.2469746E-13
+                      3    4.4473266E-13
+                      4    3.3422954E-13
+                      5    2.2824824E-13
+                      6    1.4268987E-13
+                      7    1.0490965E-13
+                      8    6.3511610E-14
+       P-solution converged in     8 solver iterations  (Error ~  6.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    7.1321973E-04
+                      1    2.5472236E-05
+                      2    5.4136660E-06
+                      3    9.6896298E-07
+                      4    2.3617349E-07
+                      5    4.4640540E-08
+                      6    8.4651025E-09
+                      7    2.0034290E-09
+                      8    4.6184311E-10
+                      9    1.0203660E-10
+                     10    1.8841619E-11
+                     11    3.9802335E-12
+                     12    8.9503702E-13
+                     13    1.8369496E-13
+                     14    4.1752989E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.2E-14)
+ TIME STEP       69 OF      100;   ELAPSED TIME:  4.3549E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5529116E-12
+                      1    7.2620279E-13
+                      2    4.9336022E-13
+                      3    4.2017461E-13
+                      4    3.4591680E-13
+                      5    2.5225175E-13
+                      6    1.8833403E-13
+                      7    1.3080381E-13
+                      8    9.6287427E-14
+       P-solution converged in     8 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.8782075E-04
+                      1    2.4228698E-05
+                      2    5.1524432E-06
+                      3    9.2653756E-07
+                      4    2.2600061E-07
+                      5    4.2768515E-08
+                      6    8.0816889E-09
+                      7    1.9130650E-09
+                      8    4.4068126E-10
+                      9    9.7614835E-11
+                     10    1.8062679E-11
+                     11    3.8075165E-12
+                     12    8.5649767E-13
+                     13    1.7600156E-13
+                     14    3.9976481E-14
+       U-solution converged in    14 solver iterations  (Error ~  4.0E-14)
+ TIME STEP       70 OF      100;   ELAPSED TIME:  4.4181E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.5059429E-12
+                      1    6.9284939E-13
+                      2    4.5696518E-13
+                      3    3.8448123E-13
+                      4    3.2301799E-13
+                      5    2.5320370E-13
+                      6    1.9552444E-13
+                      7    1.5326038E-13
+                      8    1.2499161E-13
+                      9    2.1243924E-13
+                     10    1.5389454E-13
+                     11    1.3486158E-13
+                     12    1.3640684E-13
+                     13    9.9698149E-14
+       P-solution converged in    13 solver iterations  (Error ~  1.0E-13)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.6828022E-04
+                      1    2.3501038E-05
+                      2    4.9713572E-06
+                      3    8.8493755E-07
+                      4    2.1705609E-07
+                      5    4.1065978E-08
+                      6    7.7455291E-09
+                      7    1.8330581E-09
+                      8    4.2358343E-10
+                      9    9.4156794E-11
+                     10    1.7441260E-11
+                     11    3.6624522E-12
+                     12    8.2540390E-13
+                     13    1.6936554E-13
+                     14    3.8490844E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.8E-14)
+ TIME STEP       71 OF      100;   ELAPSED TIME:  4.4812E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4868199E-12
+                      1    6.8922402E-13
+                      2    4.7461860E-13
+                      3    4.0918374E-13
+                      4    3.0818700E-13
+                      5    2.0358391E-13
+                      6    1.2381864E-13
+                      7    9.2170743E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.4604433E-04
+                      1    2.3053614E-05
+                      2    4.8705225E-06
+                      3    8.6672325E-07
+                      4    2.1234409E-07
+                      5    4.0307432E-08
+                      6    7.5772015E-09
+                      7    1.7921815E-09
+                      8    4.1419797E-10
+                      9    9.2254117E-11
+                     10    1.7126230E-11
+                     11    3.5887704E-12
+                     12    8.1027001E-13
+                     13    1.6581092E-13
+                     14    3.7666372E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.8E-14)
+ TIME STEP       72 OF      100;   ELAPSED TIME:  4.5443E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4556441E-12
+                      1    6.5109407E-13
+                      2    4.4414978E-13
+                      3    3.8581217E-13
+                      4    3.2110117E-13
+                      5    2.2290171E-13
+                      6    1.6112218E-13
+                      7    1.1108899E-13
+                      8    7.6323360E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.2265707E-04
+                      1    2.2016172E-05
+                      2    4.6448873E-06
+                      3    8.2813307E-07
+                      4    2.0336783E-07
+                      5    3.8641727E-08
+                      6    7.2403061E-09
+                      7    1.7131948E-09
+                      8    3.9538329E-10
+                      9    8.8356093E-11
+                     10    1.6447097E-11
+                     11    3.4335497E-12
+                     12    7.7490461E-13
+                     13    1.5909801E-13
+                     14    3.6108349E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.6E-14)
+ TIME STEP       73 OF      100;   ELAPSED TIME:  4.6074E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.4170723E-12
+                      1    6.2656566E-13
+                      2    4.0433076E-13
+                      3    3.3995098E-13
+                      4    2.8200895E-13
+                      5    2.1775553E-13
+                      6    1.7467557E-13
+                      7    1.3452480E-13
+                      8    1.0833557E-13
+                      9    1.8150974E-13
+                     10    1.2799833E-13
+                     11    1.1714595E-13
+                     12    1.2016119E-13
+                     13    8.6945249E-14
+       P-solution converged in    13 solver iterations  (Error ~  8.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    6.0454532E-04
+                      1    2.1102626E-05
+                      2    4.4311471E-06
+                      3    7.7956268E-07
+                      4    1.9263792E-07
+                      5    3.6610466E-08
+                      6    6.8531877E-09
+                      7    1.6207236E-09
+                      8    3.7570029E-10
+                      9    8.4242527E-11
+                     10    1.5676881E-11
+                     11    3.2621602E-12
+                     12    7.3721439E-13
+                     13    1.5116563E-13
+                     14    3.4344788E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.4E-14)
+ TIME STEP       74 OF      100;   ELAPSED TIME:  4.6705E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3832667E-12
+                      1    6.1602312E-13
+                      2    4.1629295E-13
+                      3    3.6188737E-13
+                      4    2.7396547E-13
+                      5    1.8113967E-13
+                      6    1.1065811E-13
+                      7    8.3980193E-14
+       P-solution converged in     7 solver iterations  (Error ~  8.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.8544100E-04
+                      1    2.0778170E-05
+                      2    4.3580838E-06
+                      3    7.7210340E-07
+                      4    1.9031842E-07
+                      5    3.6185155E-08
+                      6    6.7513580E-09
+                      7    1.5949356E-09
+                      8    3.6941230E-10
+                      9    8.2909236E-11
+                     10    1.5489794E-11
+                     11    3.2186002E-12
+                     12    7.2838552E-13
+                     13    1.4880676E-13
+                     14    3.3776101E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.4E-14)
+ TIME STEP       75 OF      100;   ELAPSED TIME:  4.7336E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3581508E-12
+                      1    5.8598272E-13
+                      2    3.9303307E-13
+                      3    3.4220565E-13
+                      4    2.8863116E-13
+                      5    1.9900016E-13
+                      6    1.4324872E-13
+                      7    1.0192678E-13
+                      8    6.9984962E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.0E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.6408693E-04
+                      1    1.9885046E-05
+                      2    4.1643116E-06
+                      3    7.3692142E-07
+                      4    1.8210339E-07
+                      5    3.4695834E-08
+                      6    6.4596467E-09
+                      7    1.5268974E-09
+                      8    3.5309399E-10
+                      9    7.9491999E-11
+                     10    1.4877410E-11
+                     11    3.0811265E-12
+                     12    6.9695171E-13
+                     13    1.4292376E-13
+                     14    3.2406991E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.2E-14)
+ TIME STEP       76 OF      100;   ELAPSED TIME:  4.7968E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.3254535E-12
+                      1    5.6142534E-13
+                      2    3.5658135E-13
+                      3    3.0068932E-13
+                      4    2.4875350E-13
+                      5    1.9429032E-13
+                      6    1.5680836E-13
+                      7    1.2178457E-13
+                      8    9.7167008E-14
+       P-solution converged in     8 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.4777975E-04
+                      1    1.9062606E-05
+                      2    3.9722675E-06
+                      3    6.9392779E-07
+                      4    1.7245841E-07
+                      5    3.2878468E-08
+                      6    6.1159761E-09
+                      7    1.4443070E-09
+                      8    3.3534114E-10
+                      9    7.5738053E-11
+                     10    1.4176651E-11
+                     11    2.9270642E-12
+                     12    6.6271187E-13
+                     13    1.3577234E-13
+                     14    3.0807358E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.1E-14)
+ TIME STEP       77 OF      100;   ELAPSED TIME:  4.8599E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2822956E-12
+                      1    5.3702233E-13
+                      2    3.4009382E-13
+                      3    2.9066325E-13
+                      4    2.4391225E-13
+                      5    2.0057699E-13
+                      6    1.5365834E-13
+                      7    1.2574266E-13
+                      8    1.0092572E-13
+                      9    1.6555523E-13
+                     10    1.4889757E-13
+                     11    1.1020967E-13
+                     12    1.2131299E-13
+                     13    8.2871866E-14
+       P-solution converged in    13 solver iterations  (Error ~  8.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.3189792E-04
+                      1    1.8564274E-05
+                      2    3.8621334E-06
+                      3    6.8180979E-07
+                      4    1.6918164E-07
+                      5    3.2180793E-08
+                      6    5.9740972E-09
+                      7    1.4090765E-09
+                      8    3.2690726E-10
+                      9    7.3843283E-11
+                     10    1.3880466E-11
+                     11    2.8629921E-12
+                     12    6.4877947E-13
+                     13    1.3249608E-13
+                     14    3.0033224E-14
+       U-solution converged in    14 solver iterations  (Error ~  3.0E-14)
+ TIME STEP       78 OF      100;   ELAPSED TIME:  4.9230E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2778181E-12
+                      1    5.3914749E-13
+                      2    3.6030316E-13
+                      3    3.1351496E-13
+                      4    2.4117329E-13
+                      5    1.5501450E-13
+                      6    9.1016021E-14
+       P-solution converged in     6 solver iterations  (Error ~  9.1E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    5.1231513E-04
+                      1    1.8121850E-05
+                      2    3.7721590E-06
+                      3    6.5671612E-07
+                      4    1.6334403E-07
+                      5    3.1284101E-08
+                      6    5.7861936E-09
+                      7    1.3655330E-09
+                      8    3.1671011E-10
+                      9    7.1876558E-11
+                     10    1.3515487E-11
+                     11    2.7769397E-12
+                     12    6.2977782E-13
+                     13    1.2882909E-13
+                     14    2.9194662E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.9E-14)
+ TIME STEP       79 OF      100;   ELAPSED TIME:  4.9861E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2347176E-12
+                      1    5.0034669E-13
+                      2    3.1947439E-13
+                      3    3.2530421E-13
+                      4    2.5301037E-13
+                      5    1.5517551E-13
+                      6    1.0578555E-13
+                      7    8.2396400E-14
+       P-solution converged in     7 solver iterations  (Error ~  8.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.9401293E-04
+                      1    1.7582283E-05
+                      2    3.6531527E-06
+                      3    6.4216261E-07
+                      4    1.5939205E-07
+                      5    3.0523072E-08
+                      6    5.6376610E-09
+                      7    1.3295909E-09
+                      8    3.0828678E-10
+                      9    6.9952225E-11
+                     10    1.3189655E-11
+                     11    2.7078317E-12
+                     12    6.1366224E-13
+                     13    1.2555509E-13
+                     14    2.8423436E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.8E-14)
+ TIME STEP       80 OF      100;   ELAPSED TIME:  5.0492E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.2287418E-12
+                      1    4.8478387E-13
+                      2    3.1390700E-13
+                      3    2.5473818E-13
+                      4    2.2703816E-13
+                      5    1.7233633E-13
+                      6    1.3038542E-13
+                      7    1.0448620E-13
+                      8    7.8095441E-14
+       P-solution converged in     8 solver iterations  (Error ~  7.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.7933399E-04
+                      1    1.6554475E-05
+                      2    3.4120480E-06
+                      3    5.9775560E-07
+                      4    1.4932282E-07
+                      5    2.8484618E-08
+                      6    5.2560502E-09
+                      7    1.2362896E-09
+                      8    2.8687647E-10
+                      9    6.5277403E-11
+                     10    1.2357230E-11
+                     11    2.5269881E-12
+                     12    5.7299318E-13
+                     13    1.1705254E-13
+                     14    2.6476456E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.6E-14)
+ TIME STEP       81 OF      100;   ELAPSED TIME:  5.1123E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1830786E-12
+                      1    4.6365337E-13
+                      2    2.8423294E-13
+                      3    2.3575615E-13
+                      4    1.9584017E-13
+                      5    1.6045346E-13
+                      6    1.3146592E-13
+                      7    1.0410833E-13
+                      8    8.5367611E-14
+       P-solution converged in     8 solver iterations  (Error ~  8.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.6618808E-04
+                      1    1.6197534E-05
+                      2    3.3322313E-06
+                      3    5.7700062E-07
+                      4    1.4444222E-07
+                      5    2.7673545E-08
+                      6    5.1035465E-09
+                      7    1.2018062E-09
+                      8    2.7955227E-10
+                      9    6.3747158E-11
+                     10    1.2054353E-11
+                     11    2.4604485E-12
+                     12    5.5814646E-13
+                     13    1.1413400E-13
+                     14    2.5834527E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.6E-14)
+ TIME STEP       82 OF      100;   ELAPSED TIME:  5.1754E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1487756E-12
+                      1    4.4568570E-13
+                      2    2.7561376E-13
+                      3    2.3716692E-13
+                      4    1.9849815E-13
+                      5    1.6579340E-13
+                      6    1.2582541E-13
+                      7    1.0666860E-13
+                      8    8.4365267E-14
+       P-solution converged in     8 solver iterations  (Error ~  8.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.5156297E-04
+                      1    1.5667853E-05
+                      2    3.2242030E-06
+                      3    5.6322974E-07
+                      4    1.4079576E-07
+                      5    2.6907423E-08
+                      6    4.9480101E-09
+                      7    1.1626914E-09
+                      8    2.7033138E-10
+                      9    6.1682868E-11
+                     10    1.1712321E-11
+                     11    2.3889204E-12
+                     12    5.4252610E-13
+                     13    1.1045545E-13
+                     14    2.4975417E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.5E-14)
+ TIME STEP       83 OF      100;   ELAPSED TIME:  5.2386E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1374709E-12
+                      1    4.3237345E-13
+                      2    2.6484254E-13
+                      3    2.1860753E-13
+                      4    1.8677054E-13
+                      5    1.5434563E-13
+                      6    1.2374757E-13
+                      7    1.0378254E-13
+                      8    8.3568451E-14
+       P-solution converged in     8 solver iterations  (Error ~  8.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.3631003E-04
+                      1    1.5178751E-05
+                      2    3.1184321E-06
+                      3    5.3954906E-07
+                      4    1.3525552E-07
+                      5    2.5997390E-08
+                      6    4.7712859E-09
+                      7    1.1220646E-09
+                      8    2.6051572E-10
+                      9    5.9689847E-11
+                     10    1.1338261E-11
+                     11    2.3043246E-12
+                     12    5.2278416E-13
+                     13    1.0698324E-13
+                     14    2.4175709E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.4E-14)
+ TIME STEP       84 OF      100;   ELAPSED TIME:  5.3017E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.1081310E-12
+                      1    4.1467634E-13
+                      2    2.5306533E-13
+                      3    2.1349848E-13
+                      4    1.7794947E-13
+                      5    1.4904325E-13
+                      6    1.1786119E-13
+                      7    1.0113003E-13
+                      8    8.0753002E-14
+       P-solution converged in     8 solver iterations  (Error ~  8.1E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.2249555E-04
+                      1    1.4613757E-05
+                      2    3.0029450E-06
+                      3    5.2627941E-07
+                      4    1.3162612E-07
+                      5    2.5188602E-08
+                      6    4.6140865E-09
+                      7    1.0826107E-09
+                      8    2.5136946E-10
+                      9    5.7574131E-11
+                     10    1.0982016E-11
+                     11    2.2315414E-12
+                     12    5.0672782E-13
+                     13    1.0316070E-13
+                     14    2.3276327E-14
+       U-solution converged in    14 solver iterations  (Error ~  2.3E-14)
+ TIME STEP       85 OF      100;   ELAPSED TIME:  5.3648E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0898089E-12
+                      1    3.9979138E-13
+                      2    2.4267294E-13
+                      3    2.0156392E-13
+                      4    1.7351226E-13
+                      5    1.4550752E-13
+                      6    1.1302956E-13
+                      7    9.7045046E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    4.0877239E-04
+                      1    1.4185522E-05
+                      2    2.9031594E-06
+                      3    4.9793117E-07
+                      4    1.2509303E-07
+                      5    2.4137527E-08
+                      6    4.4170844E-09
+                      7    1.0374381E-09
+                      8    2.4120319E-10
+                      9    5.5470163E-11
+                     10    1.0564501E-11
+                     11    2.1396388E-12
+                     12    4.8574531E-13
+                     13    9.9203095E-14
+       U-solution converged in    13 solver iterations  (Error ~  9.9E-14)
+ TIME STEP       86 OF      100;   ELAPSED TIME:  5.4279E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0689178E-12
+                      1    3.8808463E-13
+                      2    2.4077049E-13
+                      3    1.9891825E-13
+                      4    1.9453718E-13
+                      5    1.4067456E-13
+                      6    1.0930984E-13
+                      7    9.6281946E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.6E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.9468297E-04
+                      1    1.3788457E-05
+                      2    2.8160740E-06
+                      3    4.8726515E-07
+                      4    1.2224204E-07
+                      5    2.3553574E-08
+                      6    4.2978793E-09
+                      7    1.0072051E-09
+                      8    2.3385371E-10
+                      9    5.3807585E-11
+                     10    1.0298172E-11
+                     11    2.0817928E-12
+                     12    4.7269921E-13
+                     13    9.6313474E-14
+       U-solution converged in    13 solver iterations  (Error ~  9.6E-14)
+ TIME STEP       87 OF      100;   ELAPSED TIME:  5.4910E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0336715E-12
+                      1    3.6647531E-13
+                      2    2.2559098E-13
+                      3    1.8259800E-13
+                      4    1.7010654E-13
+                      5    1.3638868E-13
+                      6    1.1081607E-13
+                      7    9.7870780E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.8336278E-04
+                      1    1.3268546E-05
+                      2    2.7080470E-06
+                      3    4.6946191E-07
+                      4    1.1790345E-07
+                      5    2.2669004E-08
+                      6    4.1316387E-09
+                      7    9.6745325E-10
+                      8    2.2475459E-10
+                      9    5.1799676E-11
+                     10    9.9289240E-12
+                     11    2.0053759E-12
+                     12    4.5538646E-13
+                     13    9.2623060E-14
+       U-solution converged in    13 solver iterations  (Error ~  9.3E-14)
+ TIME STEP       88 OF      100;   ELAPSED TIME:  5.5541E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    1.0175060E-12
+                      1    3.5502708E-13
+                      2    2.1561708E-13
+                      3    1.7519725E-13
+                      4    1.6589481E-13
+                      5    1.3200869E-13
+                      6    1.0601459E-13
+                      7    9.4979735E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.7101753E-04
+                      1    1.2830551E-05
+                      2    2.6158087E-06
+                      3    4.5192883E-07
+                      4    1.1365816E-07
+                      5    2.1881055E-08
+                      6    3.9850757E-09
+                      7    9.3292698E-10
+                      8    2.1678930E-10
+                      9    5.0037341E-11
+                     10    9.6007864E-12
+                     11    1.9364137E-12
+                     12    4.3977157E-13
+                     13    8.9435388E-14
+       U-solution converged in    13 solver iterations  (Error ~  8.9E-14)
+ TIME STEP       89 OF      100;   ELAPSED TIME:  5.6173E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.9376688E-13
+                      1    3.4044327E-13
+                      2    2.0635084E-13
+                      3    1.6779266E-13
+                      4    1.5915150E-13
+                      5    1.2594544E-13
+                      6    1.0150407E-13
+                      7    9.2014464E-14
+       P-solution converged in     7 solver iterations  (Error ~  9.2E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.5919868E-04
+                      1    1.2370524E-05
+                      2    2.5206389E-06
+                      3    4.3398409E-07
+                      4    1.0924365E-07
+                      5    2.1074477E-08
+                      6    3.8317161E-09
+                      7    8.9633240E-10
+                      8    2.0826586E-10
+                      9    4.8165029E-11
+                     10    9.2561670E-12
+                     11    1.8634944E-12
+                     12    4.2319492E-13
+                     13    8.6076798E-14
+       U-solution converged in    13 solver iterations  (Error ~  8.6E-14)
+ TIME STEP       90 OF      100;   ELAPSED TIME:  5.6804E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.7246691E-13
+                      1    3.2742314E-13
+                      2    1.9745869E-13
+                      3    1.5993453E-13
+                      4    1.5138621E-13
+                      5    1.2122743E-13
+                      6    9.7350438E-14
+       P-solution converged in     6 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.4778880E-04
+                      1    1.1949817E-05
+                      2    2.4329307E-06
+                      3    4.1793829E-07
+                      4    1.0526782E-07
+                      5    2.0341268E-08
+                      6    3.6930607E-09
+                      7    8.6328137E-10
+                      8    2.0058198E-10
+                      9    4.6461296E-11
+                     10    8.9421484E-12
+                     11    1.7974760E-12
+                     12    4.0814182E-13
+                     13    8.3010240E-14
+       U-solution converged in    13 solver iterations  (Error ~  8.3E-14)
+ TIME STEP       91 OF      100;   ELAPSED TIME:  5.7435E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.5910839E-13
+                      1    3.1604931E-13
+                      2    1.8371419E-13
+                      3    1.9241881E-13
+                      4    1.7574389E-13
+                      5    1.2311345E-13
+                      6    8.2589054E-14
+       P-solution converged in     6 solver iterations  (Error ~  8.3E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.3508012E-04
+                      1    1.1602857E-05
+                      2    2.3713299E-06
+                      3    4.0559779E-07
+                      4    1.0210826E-07
+                      5    1.9813861E-08
+                      6    3.5940090E-09
+                      7    8.4133315E-10
+                      8    1.9552788E-10
+                      9    4.5361313E-11
+                     10    8.7173831E-12
+                     11    1.7515990E-12
+                     12    3.9747885E-13
+                     13    8.1025522E-14
+       U-solution converged in    13 solver iterations  (Error ~  8.1E-14)
+ TIME STEP       92 OF      100;   ELAPSED TIME:  5.8066E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.1241781E-13
+                      1    2.8966484E-13
+                      2    1.6825857E-13
+                      3    1.6035525E-13
+                      4    1.4766270E-13
+                      5    1.1643974E-13
+                      6    9.4720495E-14
+       P-solution converged in     6 solver iterations  (Error ~  9.5E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.2712353E-04
+                      1    1.1185128E-05
+                      2    2.2786429E-06
+                      3    3.9189024E-07
+                      4    9.8737924E-08
+                      5    1.9103155E-08
+                      6    3.4601777E-09
+                      7    8.0761747E-10
+                      8    1.8757207E-10
+                      9    4.3536210E-11
+                     10    8.4012617E-12
+                     11    1.6856560E-12
+                     12    3.8270701E-13
+                     13    7.7746004E-14
+       U-solution converged in    13 solver iterations  (Error ~  7.8E-14)
+ TIME STEP       93 OF      100;   ELAPSED TIME:  5.8697E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    9.1204956E-13
+                      1    2.8825713E-13
+                      2    1.6672014E-13
+                      3    1.5422555E-13
+                      4    1.5207144E-13
+                      5    1.1606684E-13
+                      6    8.7394954E-14
+       P-solution converged in     6 solver iterations  (Error ~  8.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.1611885E-04
+                      1    1.0776468E-05
+                      2    2.1930195E-06
+                      3    3.7562603E-07
+                      4    9.4727913E-08
+                      5    1.8343054E-08
+                      6    3.3188221E-09
+                      7    7.7411854E-10
+                      8    1.7981099E-10
+                      9    4.1815885E-11
+                     10    8.0803934E-12
+                     11    1.6194037E-12
+                     12    3.6767337E-13
+                     13    7.4593236E-14
+       U-solution converged in    13 solver iterations  (Error ~  7.5E-14)
+ TIME STEP       94 OF      100;   ELAPSED TIME:  5.9328E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.8544072E-13
+                      1    2.7154407E-13
+                      2    1.5401398E-13
+                      3    1.4826394E-13
+                      4    1.3504085E-13
+                      5    9.7523699E-14
+       P-solution converged in     5 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    3.0639168E-04
+                      1    1.0397386E-05
+                      2    2.1193916E-06
+                      3    3.6251991E-07
+                      4    9.1424090E-08
+                      5    1.7757653E-08
+                      6    3.2070317E-09
+                      7    7.4779175E-10
+                      8    1.7357330E-10
+                      9    4.0451904E-11
+                     10    7.8252771E-12
+                     11    1.5659690E-12
+                     12    3.5508954E-13
+                     13    7.2195917E-14
+       U-solution converged in    13 solver iterations  (Error ~  7.2E-14)
+ TIME STEP       95 OF      100;   ELAPSED TIME:  5.9959E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.7838872E-13
+                      1    2.6658873E-13
+                      2    1.4646268E-13
+                      3    1.6756799E-13
+                      4    1.4592089E-13
+                      5    1.1059787E-13
+                      6    7.7727249E-14
+       P-solution converged in     6 solver iterations  (Error ~  7.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.9594171E-04
+                      1    9.9851192E-06
+                      2    2.0412334E-06
+                      3    3.5015949E-07
+                      4    8.8276465E-08
+                      5    1.7110226E-08
+                      6    3.0878157E-09
+                      7    7.1909585E-10
+                      8    1.6684993E-10
+                      9    3.8926904E-11
+                     10    7.5391862E-12
+                     11    1.5092945E-12
+                     12    3.4261735E-13
+                     13    6.9516892E-14
+       U-solution converged in    13 solver iterations  (Error ~  7.0E-14)
+ TIME STEP       96 OF      100;   ELAPSED TIME:  6.0591E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.4673222E-13
+                      1    2.5107517E-13
+                      2    1.4266330E-13
+                      3    1.2280429E-13
+                      4    1.2511645E-13
+                      5    1.0538399E-13
+                      6    8.6574585E-14
+       P-solution converged in     6 solver iterations  (Error ~  8.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.8859999E-04
+                      1    9.6273792E-06
+                      2    1.9580423E-06
+                      3    3.3384259E-07
+                      4    8.4263815E-08
+                      5    1.6396018E-08
+                      6    2.9546007E-09
+                      7    6.8739833E-10
+                      8    1.5954141E-10
+                      9    3.7263852E-11
+                     10    7.2352997E-12
+                     11    1.4442990E-12
+                     12    3.2752967E-13
+                     13    6.6351423E-14
+       U-solution converged in    13 solver iterations  (Error ~  6.6E-14)
+ TIME STEP       97 OF      100;   ELAPSED TIME:  6.1222E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.3129347E-13
+                      1    2.4197676E-13
+                      2    1.3451092E-13
+                      3    1.2599031E-13
+                      4    1.2426266E-13
+                      5    9.7786846E-14
+       P-solution converged in     5 solver iterations  (Error ~  9.8E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.7925544E-04
+                      1    9.3030776E-06
+                      2    1.9009424E-06
+                      3    3.2429138E-07
+                      4    8.1803828E-08
+                      5    1.5939594E-08
+                      6    2.8658177E-09
+                      7    6.6666263E-10
+                      8    1.5457079E-10
+                      9    3.6181875E-11
+                     10    7.0325404E-12
+                     11    1.4029140E-12
+                     12    3.1793772E-13
+                     13    6.4482683E-14
+       U-solution converged in    13 solver iterations  (Error ~  6.4E-14)
+ TIME STEP       98 OF      100;   ELAPSED TIME:  6.1853E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.5538524E-13
+                      1    2.4568643E-13
+                      2    1.3509274E-13
+                      3    1.6417990E-13
+                      4    1.2937171E-13
+                      5    9.7107291E-14
+       P-solution converged in     5 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.6865555E-04
+                      1    8.8637934E-06
+                      2    1.8201869E-06
+                      3    3.0999550E-07
+                      4    7.8253270E-08
+                      5    1.5247784E-08
+                      6    2.7382433E-09
+                      7    6.3601704E-10
+                      8    1.4751978E-10
+                      9    3.4585214E-11
+                     10    6.7275495E-12
+                     11    1.3423720E-12
+                     12    3.0428139E-13
+                     13    6.1704720E-14
+       U-solution converged in    13 solver iterations  (Error ~  6.2E-14)
+ TIME STEP       99 OF      100;   ELAPSED TIME:  6.2484E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    8.0781162E-13
+                      1    2.2466236E-13
+                      2    1.2169515E-13
+                      3    1.4711208E-13
+                      4    1.2368223E-13
+                      5    9.6601262E-14
+       P-solution converged in     5 solver iterations  (Error ~  9.7E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.6262037E-04
+                      1    8.6295633E-06
+                      2    1.7677112E-06
+                      3    3.0143987E-07
+                      4    7.6046204E-08
+                      5    1.4811040E-08
+                      6    2.6583643E-09
+                      7    6.1685441E-10
+                      8    1.4298665E-10
+                      9    3.3559293E-11
+                     10    6.5389695E-12
+                     11    1.3041659E-12
+                     12    2.9565937E-13
+                     13    5.9738261E-14
+       U-solution converged in    13 solver iterations  (Error ~  6.0E-14)
+ TIME STEP      100 OF      100;   ELAPSED TIME:  6.3115E+08 OF  6.3115E+08 [s]
+       Starting P-solution using CG solver ...
+       Solver Iteration   Error Estimate
+                      0    7.9433168E-13
+                      1    2.1831963E-13
+                      2    1.1581335E-13
+                      3    1.3654754E-13
+                      4    1.1877155E-13
+                      5    9.4194549E-14
+       P-solution converged in     5 solver iterations  (Error ~  9.4E-14)
+       Starting U-solution using ORTHOMIN solver ...
+       Solver Iteration   Error Estimate
+                      0    2.5478725E-04
+                      1    8.2560183E-06
+                      2    1.6968475E-06
+                      3    2.8881744E-07
+                      4    7.2875462E-08
+                      5    1.4226329E-08
+                      6    2.5507865E-09
+                      7    5.9195834E-10
+                      8    1.3713812E-10
+                      9    3.2224638E-11
+                     10    6.2823761E-12
+                     11    1.2518642E-12
+                     12    2.8356505E-13
+                     13    5.7354078E-14
+       U-solution converged in    13 solver iterations  (Error ~  5.7E-14)
+
+ S I M U L A T I O N   E N D E D
+
